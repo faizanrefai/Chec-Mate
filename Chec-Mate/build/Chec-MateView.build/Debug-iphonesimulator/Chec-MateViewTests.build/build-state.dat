@@ -1,0 +1,131 @@
+TChec-MateViewTests
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004CC127E500000000000008A5
+t1287727077
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateViewTests/Chec-MateViewTests-Prefix.pch
+c000000004EB7C5B800000000000000A7
+t1320666552
+s167
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateViewTests/Chec_MateViewTests.h
+c000000004EB7C5B800000000000000FD
+t1320666552
+s253
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateViewTests/Chec_MateViewTests.m
+c000000004EB7C5B800000000000001CC
+t1320666552
+s460
+i"Chec_MateViewTests.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateViewTests/en.lproj/InfoPlist.strings
+c000000004EB7C5B8000000000000002D
+t1320666552
+s45
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateViewTests.build/Objects-normal/i386/Chec-MateViewTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateViewTests.build/Objects-normal/i386/Chec_MateViewTests.o
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateViewTests.build/Script-189C27551467FD37001FACA2.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest.dSYM
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Chec-MateViewTests
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Chec_MateViewTests.h
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Info.plist
+t2
+s0
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateViewTests-Prefix-dmvgpjdmgziiwccukjoqvkozttgx/Chec-MateViewTests-Prefix.pch.gch
+t2
+s0
+
+NChec-MateViewTests/Chec-MateViewTests-Info.plist
+c000000004F0D5D8700000000000002D5
+t1326275975
+s725
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateViewTests.build/Objects-normal/i386/Chec_MateViewTests.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateViewTests/Chec_MateViewTests.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCopyStringsFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/en.lproj/InfoPlist.strings" Chec-MateViewTests/en.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug-iphonesimulator/Chec-MateViewTests.octest/Chec_MateViewTests.h Chec-MateViewTests/Chec_MateViewTests.h
+r0
+
+CGenerateDSYMFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest.dSYM" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Chec-MateViewTests"
+r0
+
+CLd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Chec-MateViewTests" normal i386
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateViewTests.build/Script-189C27551467FD37001FACA2.sh"
+r0
+
+CProcessInfoPlistFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest/Info.plist" Chec-MateViewTests/Chec-MateViewTests-Info.plist
+r0
+
+CProcessPCH /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateViewTests-Prefix-dmvgpjdmgziiwccukjoqvkozttgx/Chec-MateViewTests-Prefix.pch.gch Chec-MateViewTests/Chec-MateViewTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CTouch "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateViewTests.octest"
+r0
+

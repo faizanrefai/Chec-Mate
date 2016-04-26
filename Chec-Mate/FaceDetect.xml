@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Doc>
+<Root>
+<Record>
+		<country_name>Afghanistan</country_name>
+		<country_code>AF</country_code>
+		<country_id>1</country_id>
+</Record>
+<Record>
+		<country_name>Albania</country_name>
+
+		<country_code>AL</country_code>
+		<country_id>2</country_id>
+</Record>
+<Record>
+		<country_name>Algeria</country_name>
+		<country_code>DZ</country_code>
+		<country_id>3</country_id>
+
+</Record>
+<Record>
+		<country_name>American Samoa</country_name>
+		<country_code>AS</country_code>
+		<country_id>4</country_id>
+</Record>
+<Record>
+		<country_name>Andorra</country_name>
+		<country_code>AD</country_code>
+
+		<country_id>5</country_id>
+</Record>
+<Record>
+		<country_name>Angola</country_name>
+		<country_code>AO</country_code>
+		<country_id>6</country_id>
+</Record>
+<Record>
+		<country_name>Anguilla</country_name>
+
+		<country_code>AI</country_code>
+		<country_id>7</country_id>
+</Record>
+<Record>
+		<country_name>Antarctica</country_name>
+		<country_code>AQ</country_code>
+		<country_id>8</country_id>
+
+</Record>
+<Record>
+		<country_name>Antigua and Barbuda</country_name>
+		<country_code>AG</country_code>
+		<country_id>9</country_id>
+</Record>
+<Record>
+		<country_name>Argentina</country_name>
+		<country_code>AR</country_code>
+
+		<country_id>10</country_id>
+</Record>
+<Record>
+		<country_name>Armenia</country_name>
+		<country_code>AM</country_code>
+		<country_id>11</country_id>
+</Record>
+<Record>
+		<country_name>Aruba</country_name>
+
+		<country_code>AW</country_code>
+		<country_id>12</country_id>
+</Record>
+<Record>
+		<country_name>Australia</country_name>
+		<country_code>AU</country_code>
+		<country_id>13</country_id>
+
+</Record>
+<Record>
+		<country_name>Austria</country_name>
+		<country_code>AT</country_code>
+		<country_id>14</country_id>
+</Record>
+<Record>
+		<country_name>Azerbaijan</country_name>
+		<country_code>AZ</country_code>
+
+		<country_id>15</country_id>
+</Record>
+<Record>
+		<country_name>Bahamas</country_name>
+		<country_code>BS</country_code>
+		<country_id>16</country_id>
+</Record>
+<Record>
+		<country_name>Bahrain</country_name>
+
+		<country_code>BH</country_code>
+		<country_id>17</country_id>
+</Record>
+<Record>
+		<country_name>Bangladesh</country_name>
+		<country_code>BD</country_code>
+		<country_id>18</country_id>
+
+</Record>
+<Record>
+		<country_name>Barbados</country_name>
+		<country_code>BB</country_code>
+		<country_id>19</country_id>
+</Record>
+<Record>
+		<country_name>Belarus</country_name>
+		<country_code>BY</country_code>
+
+		<country_id>20</country_id>
+</Record>
+<Record>
+		<country_name>Belgium</country_name>
+		<country_code>BE</country_code>
+		<country_id>21</country_id>
+</Record>
+<Record>
+		<country_name>Belize</country_name>
+
+		<country_code>BZ</country_code>
+		<country_id>22</country_id>
+</Record>
+<Record>
+		<country_name>Benin</country_name>
+		<country_code>BJ</country_code>
+		<country_id>23</country_id>
+
+</Record>
+<Record>
+		<country_name>Bermuda</country_name>
+		<country_code>BM</country_code>
+		<country_id>24</country_id>
+</Record>
+<Record>
+		<country_name>Bhutan</country_name>
+		<country_code>BT</country_code>
+
+		<country_id>25</country_id>
+</Record>
+<Record>
+		<country_name>Bolivia</country_name>
+		<country_code>BO</country_code>
+		<country_id>26</country_id>
+</Record>
+<Record>
+		<country_name>Bosnia and Herzegowina</country_name>
+
+		<country_code>BA</country_code>
+		<country_id>27</country_id>
+</Record>
+<Record>
+		<country_name>Botswana</country_name>
+		<country_code>BW</country_code>
+		<country_id>28</country_id>
+
+</Record>
+<Record>
+		<country_name>Bouvet Island</country_name>
+		<country_code>BV</country_code>
+		<country_id>29</country_id>
+</Record>
+<Record>
+		<country_name>Brazil</country_name>
+		<country_code>BR</country_code>
+
+		<country_id>30</country_id>
+</Record>
+<Record>
+		<country_name>British Indian Ocean Territory</country_name>
+		<country_code>IO</country_code>
+		<country_id>31</country_id>
+</Record>
+<Record>
+		<country_name>Brunei Darussalam</country_name>
+
+		<country_code>BN</country_code>
+		<country_id>32</country_id>
+</Record>
+<Record>
+		<country_name>Bulgaria</country_name>
+		<country_code>BG</country_code>
+		<country_id>33</country_id>
+
+</Record>
+<Record>
+		<country_name>Burkina Faso</country_name>
+		<country_code>BF</country_code>
+		<country_id>34</country_id>
+</Record>
+<Record>
+		<country_name>Burundi</country_name>
+		<country_code>BI</country_code>
+
+		<country_id>35</country_id>
+</Record>
+<Record>
+		<country_name>Cambodia</country_name>
+		<country_code>KH</country_code>
+		<country_id>36</country_id>
+</Record>
+<Record>
+		<country_name>Cameroon</country_name>
+
+		<country_code>CM</country_code>
+		<country_id>37</country_id>
+</Record>
+<Record>
+		<country_name>Canada</country_name>
+		<country_code>CA</country_code>
+		<country_id>38</country_id>
+
+</Record>
+<Record>
+		<country_name>Cape Verde</country_name>
+		<country_code>CV</country_code>
+		<country_id>39</country_id>
+</Record>
+<Record>
+		<country_name>Cayman Islands</country_name>
+		<country_code>KY</country_code>
+
+		<country_id>40</country_id>
+</Record>
+<Record>
+		<country_name>Central African Republic</country_name>
+		<country_code>CF</country_code>
+		<country_id>41</country_id>
+</Record>
+<Record>
+		<country_name>Chad</country_name>
+
+		<country_code>TD</country_code>
+		<country_id>42</country_id>
+</Record>
+<Record>
+		<country_name>Chile</country_name>
+		<country_code>CL</country_code>
+		<country_id>43</country_id>
+
+</Record>
+<Record>
+		<country_name>China</country_name>
+		<country_code>CN</country_code>
+		<country_id>44</country_id>
+</Record>
+<Record>
+		<country_name>Christmas Island</country_name>
+		<country_code>CX</country_code>
+
+		<country_id>45</country_id>
+</Record>
+<Record>
+		<country_name>Cocos (Keeling) Islands</country_name>
+		<country_code>CC</country_code>
+		<country_id>46</country_id>
+</Record>
+<Record>
+		<country_name>Colombia</country_name>
+
+		<country_code>CO</country_code>
+		<country_id>47</country_id>
+</Record>
+<Record>
+		<country_name>Comoros</country_name>
+		<country_code>KM</country_code>
+		<country_id>48</country_id>
+
+</Record>
+<Record>
+		<country_name>Congo</country_name>
+		<country_code>CG</country_code>
+		<country_id>49</country_id>
+</Record>
+<Record>
+		<country_name>Cook Islands</country_name>
+		<country_code>CK</country_code>
+
+		<country_id>50</country_id>
+</Record>
+<Record>
+		<country_name>Costa Rica</country_name>
+		<country_code>CR</country_code>
+		<country_id>51</country_id>
+</Record>
+<Record>
+		<country_name>Cote D'Ivoire</country_name>
+
+		<country_code>CI</country_code>
+		<country_id>52</country_id>
+</Record>
+<Record>
+		<country_name>Croatia</country_name>
+		<country_code>HR</country_code>
+		<country_id>53</country_id>
+
+</Record>
+<Record>
+		<country_name>Cuba</country_name>
+		<country_code>CU</country_code>
+		<country_id>54</country_id>
+</Record>
+<Record>
+		<country_name>Cyprus</country_name>
+		<country_code>CY</country_code>
+
+		<country_id>55</country_id>
+</Record>
+<Record>
+		<country_name>Czech Republic</country_name>
+		<country_code>CZ</country_code>
+		<country_id>56</country_id>
+</Record>
+<Record>
+		<country_name>Denmark</country_name>
+
+		<country_code>DK</country_code>
+		<country_id>57</country_id>
+</Record>
+<Record>
+		<country_name>Djibouti</country_name>
+		<country_code>DJ</country_code>
+		<country_id>58</country_id>
+
+</Record>
+<Record>
+		<country_name>Dominica</country_name>
+		<country_code>DM</country_code>
+		<country_id>59</country_id>
+</Record>
+<Record>
+		<country_name>Dominican Republic</country_name>
+		<country_code>DO</country_code>
+
+		<country_id>60</country_id>
+</Record>
+<Record>
+		<country_name>East Timor</country_name>
+		<country_code>TP</country_code>
+		<country_id>61</country_id>
+</Record>
+<Record>
+		<country_name>Ecuador</country_name>
+
+		<country_code>EC</country_code>
+		<country_id>62</country_id>
+</Record>
+<Record>
+		<country_name>Egypt</country_name>
+		<country_code>EG</country_code>
+		<country_id>63</country_id>
+
+</Record>
+<Record>
+		<country_name>El Salvador</country_name>
+		<country_code>SV</country_code>
+		<country_id>64</country_id>
+</Record>
+<Record>
+		<country_name>Equatorial Guinea</country_name>
+		<country_code>GQ</country_code>
+
+		<country_id>65</country_id>
+</Record>
+<Record>
+		<country_name>Eritrea</country_name>
+		<country_code>ER</country_code>
+		<country_id>66</country_id>
+</Record>
+<Record>
+		<country_name>Estonia</country_name>
+
+		<country_code>EE</country_code>
+		<country_id>67</country_id>
+</Record>
+<Record>
+		<country_name>Ethiopia</country_name>
+		<country_code>ET</country_code>
+		<country_id>68</country_id>
+
+</Record>
+<Record>
+		<country_name>Falkland Islands (Malvinas)</country_name>
+		<country_code>FK</country_code>
+		<country_id>69</country_id>
+</Record>
+<Record>
+		<country_name>Faroe Islands</country_name>
+		<country_code>FO</country_code>
+
+		<country_id>70</country_id>
+</Record>
+<Record>
+		<country_name>Fiji</country_name>
+		<country_code>FJ</country_code>
+		<country_id>71</country_id>
+</Record>
+<Record>
+		<country_name>Finland</country_name>
+
+		<country_code>FI</country_code>
+		<country_id>72</country_id>
+</Record>
+<Record>
+		<country_name>France</country_name>
+		<country_code>FR</country_code>
+		<country_id>73</country_id>
+
+</Record>
+<Record>
+		<country_name>France, Metropolitan</country_name>
+		<country_code>FX</country_code>
+		<country_id>74</country_id>
+</Record>
+<Record>
+		<country_name>French Guiana</country_name>
+		<country_code>GF</country_code>
+
+		<country_id>75</country_id>
+</Record>
+<Record>
+		<country_name>French Polynesia</country_name>
+		<country_code>PF</country_code>
+		<country_id>76</country_id>
+</Record>
+<Record>
+		<country_name>French Southern Territories</country_name>
+
+		<country_code>TF</country_code>
+		<country_id>77</country_id>
+</Record>
+<Record>
+		<country_name>Gabon</country_name>
+		<country_code>GA</country_code>
+		<country_id>78</country_id>
+
+</Record>
+<Record>
+		<country_name>Gambia</country_name>
+		<country_code>GM</country_code>
+		<country_id>79</country_id>
+</Record>
+<Record>
+		<country_name>Georgia</country_name>
+		<country_code>GE</country_code>
+
+		<country_id>80</country_id>
+</Record>
+<Record>
+		<country_name>Germany</country_name>
+		<country_code>DE</country_code>
+		<country_id>81</country_id>
+</Record>
+<Record>
+		<country_name>Ghana</country_name>
+
+		<country_code>GH</country_code>
+		<country_id>82</country_id>
+</Record>
+<Record>
+		<country_name>Gibraltar</country_name>
+		<country_code>GI</country_code>
+		<country_id>83</country_id>
+
+</Record>
+<Record>
+		<country_name>Greece</country_name>
+		<country_code>GR</country_code>
+		<country_id>84</country_id>
+</Record>
+<Record>
+		<country_name>Greenland</country_name>
+		<country_code>GL</country_code>
+
+		<country_id>85</country_id>
+</Record>
+<Record>
+		<country_name>Grenada</country_name>
+		<country_code>GD</country_code>
+		<country_id>86</country_id>
+</Record>
+<Record>
+		<country_name>Guadeloupe</country_name>
+
+		<country_code>GP</country_code>
+		<country_id>87</country_id>
+</Record>
+<Record>
+		<country_name>Guam</country_name>
+		<country_code>GU</country_code>
+		<country_id>88</country_id>
+
+</Record>
+<Record>
+		<country_name>Guatemala</country_name>
+		<country_code>GT</country_code>
+		<country_id>89</country_id>
+</Record>
+<Record>
+		<country_name>Guinea</country_name>
+		<country_code>GN</country_code>
+
+		<country_id>90</country_id>
+</Record>
+<Record>
+		<country_name>Guinea-bissau</country_name>
+		<country_code>GW</country_code>
+		<country_id>91</country_id>
+</Record>
+<Record>
+		<country_name>Guyana</country_name>
+
+		<country_code>GY</country_code>
+		<country_id>92</country_id>
+</Record>
+<Record>
+		<country_name>Haiti</country_name>
+		<country_code>HT</country_code>
+		<country_id>93</country_id>
+
+</Record>
+<Record>
+		<country_name>Heard and Mc Donald Islands</country_name>
+		<country_code>HM</country_code>
+		<country_id>94</country_id>
+</Record>
+<Record>
+		<country_name>Honduras</country_name>
+		<country_code>HN</country_code>
+
+		<country_id>95</country_id>
+</Record>
+<Record>
+		<country_name>Hong Kong</country_name>
+		<country_code>HK</country_code>
+		<country_id>96</country_id>
+</Record>
+<Record>
+		<country_name>Hungary</country_name>
+
+		<country_code>HU</country_code>
+		<country_id>97</country_id>
+</Record>
+<Record>
+		<country_name>Iceland</country_name>
+		<country_code>IS</country_code>
+		<country_id>98</country_id>
+
+</Record>
+<Record>
+		<country_name>India</country_name>
+		<country_code>IN</country_code>
+		<country_id>99</country_id>
+</Record>
+<Record>
+		<country_name>Indonesia</country_name>
+		<country_code>ID</country_code>
+
+		<country_id>100</country_id>
+</Record>
+<Record>
+		<country_name>Iran (Islamic Republic of)</country_name>
+		<country_code>IR</country_code>
+		<country_id>101</country_id>
+</Record>
+<Record>
+		<country_name>Iraq</country_name>
+
+		<country_code>IQ</country_code>
+		<country_id>102</country_id>
+</Record>
+<Record>
+		<country_name>Ireland</country_name>
+		<country_code>IE</country_code>
+		<country_id>103</country_id>
+
+</Record>
+<Record>
+		<country_name>Israel</country_name>
+		<country_code>IL</country_code>
+		<country_id>104</country_id>
+</Record>
+<Record>
+		<country_name>Italy</country_name>
+		<country_code>IT</country_code>
+
+		<country_id>105</country_id>
+</Record>
+<Record>
+		<country_name>Jamaica</country_name>
+		<country_code>JM</country_code>
+		<country_id>106</country_id>
+</Record>
+<Record>
+		<country_name>Japan</country_name>
+
+		<country_code>JP</country_code>
+		<country_id>107</country_id>
+</Record>
+<Record>
+		<country_name>Jordan</country_name>
+		<country_code>JO</country_code>
+		<country_id>108</country_id>
+
+</Record>
+<Record>
+		<country_name>Kazakhstan</country_name>
+		<country_code>KZ</country_code>
+		<country_id>109</country_id>
+</Record>
+<Record>
+		<country_name>Kenya</country_name>
+		<country_code>KE</country_code>
+
+		<country_id>110</country_id>
+</Record>
+<Record>
+		<country_name>Kiribati</country_name>
+		<country_code>KI</country_code>
+		<country_id>111</country_id>
+</Record>
+<Record>
+		<country_name>Korea, Democratic People's Republic of</country_name>
+
+		<country_code>KP</country_code>
+		<country_id>112</country_id>
+</Record>
+<Record>
+		<country_name>Korea, Republic of</country_name>
+		<country_code>KR</country_code>
+		<country_id>113</country_id>
+
+</Record>
+<Record>
+		<country_name>Kuwait</country_name>
+		<country_code>KW</country_code>
+		<country_id>114</country_id>
+</Record>
+<Record>
+		<country_name>Kyrgyzstan</country_name>
+		<country_code>KG</country_code>
+
+		<country_id>115</country_id>
+</Record>
+<Record>
+		<country_name>Lao People's Democratic Republic</country_name>
+		<country_code>LA</country_code>
+		<country_id>116</country_id>
+</Record>
+<Record>
+		<country_name>Latvia</country_name>
+
+		<country_code>LV</country_code>
+		<country_id>117</country_id>
+</Record>
+<Record>
+		<country_name>Lebanon</country_name>
+		<country_code>LB</country_code>
+		<country_id>118</country_id>
+
+</Record>
+<Record>
+		<country_name>Lesotho</country_name>
+		<country_code>LS</country_code>
+		<country_id>119</country_id>
+</Record>
+<Record>
+		<country_name>Liberia</country_name>
+		<country_code>LR</country_code>
+
+		<country_id>120</country_id>
+</Record>
+<Record>
+		<country_name>Libyan Arab Jamahiriya</country_name>
+		<country_code>LY</country_code>
+		<country_id>121</country_id>
+</Record>
+<Record>
+		<country_name>Liechtenstein</country_name>
+
+		<country_code>LI</country_code>
+		<country_id>122</country_id>
+</Record>
+<Record>
+		<country_name>Lithuania</country_name>
+		<country_code>LT</country_code>
+		<country_id>123</country_id>
+
+</Record>
+<Record>
+		<country_name>Luxembourg</country_name>
+		<country_code>LU</country_code>
+		<country_id>124</country_id>
+</Record>
+<Record>
+		<country_name>Macau</country_name>
+		<country_code>MO</country_code>
+
+		<country_id>125</country_id>
+</Record>
+<Record>
+		<country_name>Macedonia, The Former Yugoslav Republic of</country_name>
+		<country_code>MK</country_code>
+		<country_id>126</country_id>
+</Record>
+<Record>
+		<country_name>Madagascar</country_name>
+
+		<country_code>MG</country_code>
+		<country_id>127</country_id>
+</Record>
+<Record>
+		<country_name>Malawi</country_name>
+		<country_code>MW</country_code>
+		<country_id>128</country_id>
+
+</Record>
+<Record>
+		<country_name>Malaysia</country_name>
+		<country_code>MY</country_code>
+		<country_id>129</country_id>
+</Record>
+<Record>
+		<country_name>Maldives</country_name>
+		<country_code>MV</country_code>
+
+		<country_id>130</country_id>
+</Record>
+<Record>
+		<country_name>Mali</country_name>
+		<country_code>ML</country_code>
+		<country_id>131</country_id>
+</Record>
+<Record>
+		<country_name>Malta</country_name>
+
+		<country_code>MT</country_code>
+		<country_id>132</country_id>
+</Record>
+<Record>
+		<country_name>Marshall Islands</country_name>
+		<country_code>MH</country_code>
+		<country_id>133</country_id>
+
+</Record>
+<Record>
+		<country_name>Martinique</country_name>
+		<country_code>MQ</country_code>
+		<country_id>134</country_id>
+</Record>
+<Record>
+		<country_name>Mauritania</country_name>
+		<country_code>MR</country_code>
+
+		<country_id>135</country_id>
+</Record>
+<Record>
+		<country_name>Mauritius</country_name>
+		<country_code>MU</country_code>
+		<country_id>136</country_id>
+</Record>
+<Record>
+		<country_name>Mayotte</country_name>
+
+		<country_code>YT</country_code>
+		<country_id>137</country_id>
+</Record>
+<Record>
+		<country_name>Mexico</country_name>
+		<country_code>MX</country_code>
+		<country_id>138</country_id>
+
+</Record>
+<Record>
+		<country_name>Micronesia, Federated States of</country_name>
+		<country_code>FM</country_code>
+		<country_id>139</country_id>
+</Record>
+<Record>
+		<country_name>Moldova, Republic of</country_name>
+		<country_code>MD</country_code>
+
+		<country_id>140</country_id>
+</Record>
+<Record>
+		<country_name>Monaco</country_name>
+		<country_code>MC</country_code>
+		<country_id>141</country_id>
+</Record>
+<Record>
+		<country_name>Mongolia</country_name>
+
+		<country_code>MN</country_code>
+		<country_id>142</country_id>
+</Record>
+<Record>
+		<country_name>Montserrat</country_name>
+		<country_code>MS</country_code>
+		<country_id>143</country_id>
+
+</Record>
+<Record>
+		<country_name>Morocco</country_name>
+		<country_code>MA</country_code>
+		<country_id>144</country_id>
+</Record>
+<Record>
+		<country_name>Mozambique</country_name>
+		<country_code>MZ</country_code>
+
+		<country_id>145</country_id>
+</Record>
+<Record>
+		<country_name>Myanmar</country_name>
+		<country_code>MM</country_code>
+		<country_id>146</country_id>
+</Record>
+<Record>
+		<country_name>Namibia</country_name>
+
+		<country_code>NA</country_code>
+		<country_id>147</country_id>
+</Record>
+<Record>
+		<country_name>Nauru</country_name>
+		<country_code>NR</country_code>
+		<country_id>148</country_id>
+
+</Record>
+<Record>
+		<country_name>Nepal</country_name>
+		<country_code>NP</country_code>
+		<country_id>149</country_id>
+</Record>
+<Record>
+		<country_name>Netherlands</country_name>
+		<country_code>NL</country_code>
+
+		<country_id>150</country_id>
+</Record>
+<Record>
+		<country_name>Netherlands Antilles</country_name>
+		<country_code>AN</country_code>
+		<country_id>151</country_id>
+</Record>
+<Record>
+		<country_name>New Caledonia</country_name>
+
+		<country_code>NC</country_code>
+		<country_id>152</country_id>
+</Record>
+<Record>
+		<country_name>New Zealand</country_name>
+		<country_code>NZ</country_code>
+		<country_id>153</country_id>
+
+</Record>
+<Record>
+		<country_name>Nicaragua</country_name>
+		<country_code>NI</country_code>
+		<country_id>154</country_id>
+</Record>
+<Record>
+		<country_name>Niger</country_name>
+		<country_code>NE</country_code>
+
+		<country_id>155</country_id>
+</Record>
+<Record>
+
+		<country_name>Nigeria</country_name>
+		<country_code>NG</country_code>
+		<country_id>156</country_id>
+</Record>
+<Record>
+		<country_name>Niue</country_name>
+
+		<country_code>NU</country_code>
+		<country_id>157</country_id>
+</Record>
+<Record>
+		<country_name>Norfolk Island</country_name>
+		<country_code>NF</country_code>
+		<country_id>158</country_id>
+
+</Record>
+<Record>
+		<country_name>Northern Mariana Islands</country_name>
+		<country_code>MP</country_code>
+		<country_id>159</country_id>
+</Record>
+<Record>
+		<country_name>Norway</country_name>
+		<country_code>NO</country_code>
+
+		<country_id>160</country_id>
+</Record>
+<Record>
+		<country_name>Oman</country_name>
+		<country_code>OM</country_code>
+		<country_id>161</country_id>
+</Record>
+<Record>
+		<country_name>Pakistan</country_name>
+
+		<country_code>PK</country_code>
+		<country_id>162</country_id>
+</Record>
+<Record>
+		<country_name>Palau</country_name>
+		<country_code>PW</country_code>
+		<country_id>163</country_id>
+
+</Record>
+<Record>
+		<country_name>Panama</country_name>
+		<country_code>PA</country_code>
+		<country_id>164</country_id>
+</Record>
+<Record>
+		<country_name>Papua New Guinea</country_name>
+		<country_code>PG</country_code>
+
+		<country_id>165</country_id>
+</Record>
+<Record>
+		<country_name>Paraguay</country_name>
+		<country_code>PY</country_code>
+		<country_id>166</country_id>
+</Record>
+<Record>
+		<country_name>Peru</country_name>
+
+		<country_code>PE</country_code>
+		<country_id>167</country_id>
+</Record>
+<Record>
+		<country_name>Philippines</country_name>
+		<country_code>PH</country_code>
+		<country_id>168</country_id>
+
+</Record>
+<Record>
+		<country_name>Pitcairn</country_name>
+		<country_code>PN</country_code>
+		<country_id>169</country_id>
+</Record>
+<Record>
+		<country_name>Poland</country_name>
+		<country_code>PL</country_code>
+
+		<country_id>170</country_id>
+</Record>
+<Record>
+		<country_name>Portugal</country_name>
+		<country_code>PT</country_code>
+		<country_id>171</country_id>
+</Record>
+<Record>
+		<country_name>Puerto Rico</country_name>
+
+		<country_code>PR</country_code>
+		<country_id>172</country_id>
+</Record>
+<Record>
+		<country_name>Qatar</country_name>
+		<country_code>QA</country_code>
+		<country_id>173</country_id>
+
+</Record>
+<Record>
+		<country_name>Reunion</country_name>
+		<country_code>RE</country_code>
+		<country_id>174</country_id>
+</Record>
+<Record>
+		<country_name>Romania</country_name>
+		<country_code>RO</country_code>
+
+		<country_id>175</country_id>
+</Record>
+<Record>
+		<country_name>Russian Federation</country_name>
+		<country_code>RU</country_code>
+		<country_id>176</country_id>
+</Record>
+<Record>
+		<country_name>Rwanda</country_name>
+
+		<country_code>RW</country_code>
+		<country_id>177</country_id>
+</Record>
+<Record>
+		<country_name>Saint Kitts and Nevis</country_name>
+		<country_code>KN</country_code>
+		<country_id>178</country_id>
+
+</Record>
+<Record>
+		<country_name>Saint Lucia</country_name>
+		<country_code>LC</country_code>
+		<country_id>179</country_id>
+</Record>
+<Record>
+		<country_name>Saint Vincent and the Grenadines</country_name>
+		<country_code>VC</country_code>
+
+		<country_id>180</country_id>
+</Record>
+<Record>
+		<country_name>Samoa</country_name>
+		<country_code>WS</country_code>
+		<country_id>181</country_id>
+</Record>
+<Record>
+		<country_name>San Marino</country_name>
+
+		<country_code>SM</country_code>
+		<country_id>182</country_id>
+</Record>
+<Record>
+		<country_name>Sao Tome and Principe</country_name>
+		<country_code>ST</country_code>
+		<country_id>183</country_id>
+
+</Record>
+<Record>
+		<country_name>Saudi Arabia</country_name>
+		<country_code>SA</country_code>
+		<country_id>184</country_id>
+</Record>
+<Record>
+		<country_name>Senegal</country_name>
+		<country_code>SN</country_code>
+
+		<country_id>185</country_id>
+</Record>
+<Record>
+		<country_name>Seychelles</country_name>
+		<country_code>SC</country_code>
+		<country_id>186</country_id>
+</Record>
+<Record>
+		<country_name>Sierra Leone</country_name>
+
+		<country_code>SL</country_code>
+		<country_id>187</country_id>
+</Record>
+<Record>
+		<country_name>Singapore</country_name>
+		<country_code>SG</country_code>
+		<country_id>188</country_id>
+
+</Record>
+<Record>
+		<country_name>Slovakia (Slovak Republic)</country_name>
+		<country_code>SK</country_code>
+		<country_id>189</country_id>
+</Record>
+<Record>
+		<country_name>Slovenia</country_name>
+		<country_code>SI</country_code>
+
+		<country_id>190</country_id>
+</Record>
+<Record>
+		<country_name>Solomon Islands</country_name>
+		<country_code>SB</country_code>
+		<country_id>191</country_id>
+</Record>
+<Record>
+		<country_name>Somalia</country_name>
+
+		<country_code>SO</country_code>
+		<country_id>192</country_id>
+</Record>
+<Record>
+		<country_name>South Africa</country_name>
+		<country_code>ZA</country_code>
+		<country_id>193</country_id>
+
+</Record>
+<Record>
+		<country_name>South Georgia and the South Sandwich Islands</country_name>
+		<country_code>GS</country_code>
+		<country_id>194</country_id>
+</Record>
+<Record>
+		<country_name>Spain</country_name>
+		<country_code>ES</country_code>
+
+		<country_id>195</country_id>
+</Record>
+<Record>
+		<country_name>Sri Lanka</country_name>
+		<country_code>LK</country_code>
+		<country_id>196</country_id>
+</Record>
+<Record>
+		<country_name>St. Helena</country_name>
+
+		<country_code>SH</country_code>
+		<country_id>197</country_id>
+</Record>
+<Record>
+		<country_name>St. Pierre and Miquelon</country_name>
+		<country_code>PM</country_code>
+		<country_id>198</country_id>
+
+</Record>
+<Record>
+		<country_name>Sudan</country_name>
+		<country_code>SD</country_code>
+		<country_id>199</country_id>
+</Record>
+<Record>
+		<country_name>Suriname</country_name>
+		<country_code>SR</country_code>
+
+		<country_id>200</country_id>
+</Record>
+<Record>
+		<country_name>Svalbard and Jan Mayen Islands</country_name>
+		<country_code>SJ</country_code>
+		<country_id>201</country_id>
+</Record>
+<Record>
+		<country_name>Swaziland</country_name>
+
+		<country_code>SZ</country_code>
+		<country_id>202</country_id>
+</Record>
+<Record>
+		<country_name>Sweden</country_name>
+		<country_code>SE</country_code>
+		<country_id>203</country_id>
+
+</Record>
+<Record>
+		<country_name>Switzerland</country_name>
+		<country_code>CH</country_code>
+		<country_id>204</country_id>
+</Record>
+<Record>
+		<country_name>Syrian Arab Republic</country_name>
+		<country_code>SY</country_code>
+
+		<country_id>205</country_id>
+</Record>
+<Record>
+		<country_name>Taiwan</country_name>
+		<country_code>TW</country_code>
+		<country_id>206</country_id>
+</Record>
+<Record>
+		<country_name>Tajikistan</country_name>
+
+		<country_code>TJ</country_code>
+		<country_id>207</country_id>
+</Record>
+<Record>
+		<country_name>Tanzania, United Republic of</country_name>
+		<country_code>TZ</country_code>
+		<country_id>208</country_id>
+
+</Record>
+<Record>
+		<country_name>Thailand</country_name>
+		<country_code>TH</country_code>
+		<country_id>209</country_id>
+</Record>
+<Record>
+		<country_name>Togo</country_name>
+		<country_code>TG</country_code>
+
+		<country_id>210</country_id>
+</Record>
+<Record>
+		<country_name>Tokelau</country_name>
+		<country_code>TK</country_code>
+		<country_id>211</country_id>
+</Record>
+<Record>
+		<country_name>Tonga</country_name>
+
+		<country_code>TO</country_code>
+		<country_id>212</country_id>
+</Record>
+<Record>
+		<country_name>Trinidad and Tobago</country_name>
+		<country_code>TT</country_code>
+		<country_id>213</country_id>
+
+</Record>
+<Record>
+		<country_name>Tunisia</country_name>
+		<country_code>TN</country_code>
+		<country_id>214</country_id>
+</Record>
+<Record>
+		<country_name>Turkey</country_name>
+		<country_code>TR</country_code>
+
+		<country_id>215</country_id>
+</Record>
+<Record>
+		<country_name>Turkmenistan</country_name>
+		<country_code>TM</country_code>
+		<country_id>216</country_id>
+</Record>
+<Record>
+		<country_name>Turks and Caicos Islands</country_name>
+
+		<country_code>TC</country_code>
+		<country_id>217</country_id>
+</Record>
+<Record>
+		<country_name>Tuvalu</country_name>
+		<country_code>TV</country_code>
+		<country_id>218</country_id>
+
+</Record>
+<Record>
+		<country_name>Uganda</country_name>
+		<country_code>UG</country_code>
+		<country_id>219</country_id>
+</Record>
+<Record>
+		<country_name>Ukraine</country_name>
+		<country_code>UA</country_code>
+
+		<country_id>220</country_id>
+</Record>
+<Record>
+		<country_name>United Arab Emirates</country_name>
+		<country_code>AE</country_code>
+		<country_id>221</country_id>
+</Record>
+<Record>
+		<country_name>United Kingdom</country_name>
+
+		<country_code>GB</country_code>
+		<country_id>222</country_id>
+</Record>
+<Record>
+		<country_name>United States</country_name>
+		<country_code>US</country_code>
+		<country_id>223</country_id>
+
+</Record>
+<Record>
+		<country_name>United States Minor Outlying Islands</country_name>
+		<country_code>UM</country_code>
+		<country_id>224</country_id>
+</Record>
+<Record>
+		<country_name>Uruguay</country_name>
+		<country_code>UY</country_code>
+
+		<country_id>225</country_id>
+</Record>
+<Record>
+		<country_name>Uzbekistan</country_name>
+		<country_code>UZ</country_code>
+		<country_id>226</country_id>
+</Record>
+<Record>
+		<country_name>Vanuatu</country_name>
+
+		<country_code>VU</country_code>
+		<country_id>227</country_id>
+</Record>
+<Record>
+		<country_name>Vatican City State (Holy See)</country_name>
+		<country_code>VA</country_code>
+		<country_id>228</country_id>
+
+</Record>
+<Record>
+		<country_name>Venezuela</country_name>
+		<country_code>VE</country_code>
+		<country_id>229</country_id>
+</Record>
+<Record>
+		<country_name>Viet Nam</country_name>
+		<country_code>VN</country_code>
+
+		<country_id>230</country_id>
+</Record>
+<Record>
+		<country_name>Virgin Islands (British)</country_name>
+		<country_code>VG</country_code>
+		<country_id>231</country_id>
+</Record>
+<Record>
+		<country_name>Virgin Islands (U.S.)</country_name>
+
+		<country_code>VI</country_code>
+		<country_id>232</country_id>
+</Record>
+<Record>
+		<country_name>Wallis and Futuna Islands</country_name>
+		<country_code>WF</country_code>
+		<country_id>233</country_id>
+
+</Record>
+<Record>
+		<country_name>Western Sahara</country_name>
+		<country_code>EH</country_code>
+		<country_id>234</country_id>
+</Record>
+<Record>
+		<country_name>Yemen</country_name>
+		<country_code>YE</country_code>
+
+		<country_id>235</country_id>
+</Record>
+<Record>
+		<country_name>Serbia</country_name>
+		<country_code>RS</country_code>
+		<country_id>236</country_id>
+</Record>
+<Record>
+		<country_name>The Democratic Republic of Congo</country_name>
+
+		<country_code>DC</country_code>
+		<country_id>237</country_id>
+</Record>
+<Record>
+		<country_name>Zambia</country_name>
+		<country_code>ZM</country_code>
+		<country_id>238</country_id>
+
+</Record>
+<Record>
+		<country_name>Zimbabwe</country_name>
+		<country_code>ZW</country_code>
+		<country_id>239</country_id>
+</Record>
+<Record>
+		<country_name>East Timor</country_name>
+		<country_code>XE</country_code>
+
+		<country_id>240</country_id>
+</Record>
+<Record>
+		<country_name>Jersey</country_name>
+		<country_code>XJ</country_code>
+		<country_id>241</country_id>
+</Record>
+<Record>
+		<country_name>St. Barthelemy</country_name>
+
+		<country_code>XB</country_code>
+		<country_id>242</country_id>
+</Record>
+<Record>
+		<country_name>St. Eustatius</country_name>
+		<country_code>XU</country_code>
+		<country_id>243</country_id>
+
+</Record>
+<Record>
+		<country_name>Canary Islands</country_name>
+		<country_code>XC</country_code>
+		<country_id>244</country_id>
+</Record>
+<Record>
+		<country_name>Montenegro</country_name>
+		<country_code>ME</country_code>
+
+		<country_id>245</country_id>
+</Record>
+</Root>
+</Doc>

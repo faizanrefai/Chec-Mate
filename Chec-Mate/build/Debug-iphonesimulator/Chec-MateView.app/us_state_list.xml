@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Doc>
+<Root>
+<Record>
+		<stateid>1</stateid>
+		<statename>Alaska</statename>
+</Record>
+<Record>
+		<stateid>2</stateid>
+		<statename>Alabama</statename>
+
+</Record>
+<Record>
+		<stateid>3</stateid>
+		<statename>American Samoa</statename>
+</Record>
+<Record>
+		<stateid>4</stateid>
+		<statename>Arizona</statename>
+</Record>
+
+<Record>
+		<stateid>5</stateid>
+		<statename>Arkansas</statename>
+</Record>
+<Record>
+		<stateid>6</stateid>
+		<statename>California</statename>
+</Record>
+<Record>
+
+		<stateid>7</stateid>
+		<statename>Colorado</statename>
+</Record>
+<Record>
+		<stateid>8</stateid>
+		<statename>Connecticut</statename>
+</Record>
+<Record>
+		<stateid>9</stateid>
+
+		<statename>Delaware</statename>
+</Record>
+<Record>
+		<stateid>10</stateid>
+		<statename>District of Columbia</statename>
+</Record>
+<Record>
+		<stateid>11</stateid>
+		<statename>Federated state </statename>
+
+</Record>
+<Record>
+		<stateid>12</stateid>
+		<statename>Florida</statename>
+</Record>
+<Record>
+		<stateid>13</stateid>
+		<statename>Georgia</statename>
+</Record>
+
+<Record>
+		<stateid>14</stateid>
+		<statename>Guam</statename>
+</Record>
+<Record>
+		<stateid>15</stateid>
+		<statename>Hawaii</statename>
+</Record>
+<Record>
+
+		<stateid>16</stateid>
+		<statename>Idaho</statename>
+</Record>
+<Record>
+		<stateid>17</stateid>
+		<statename>Alaska</statename>
+</Record>
+<Record>
+		<stateid>18</stateid>
+
+		<statename>Alabama</statename>
+</Record>
+<Record>
+		<stateid>19</stateid>
+		<statename>American Samoa</statename>
+</Record>
+<Record>
+		<stateid>20</stateid>
+		<statename>Arizona</statename>
+
+</Record>
+<Record>
+		<stateid>21</stateid>
+		<statename>Arkansas</statename>
+</Record>
+<Record>
+		<stateid>22</stateid>
+		<statename>California</statename>
+</Record>
+
+<Record>
+		<stateid>23</stateid>
+		<statename>Colorado</statename>
+</Record>
+<Record>
+		<stateid>24</stateid>
+		<statename>Connecticut</statename>
+</Record>
+<Record>
+
+		<stateid>25</stateid>
+		<statename>Delaware</statename>
+</Record>
+<Record>
+		<stateid>26</stateid>
+		<statename>District of Columbia</statename>
+</Record>
+<Record>
+		<stateid>27</stateid>
+
+		<statename>Federated state of Micronesia</statename>
+</Record>
+<Record>
+		<stateid>28</stateid>
+		<statename>Florida</statename>
+</Record>
+<Record>
+		<stateid>29</stateid>
+		<statename>Georgia</statename>
+
+</Record>
+<Record>
+		<stateid>30</stateid>
+		<statename>Guam</statename>
+</Record>
+<Record>
+		<stateid>31</stateid>
+		<statename>Hawaii</statename>
+</Record>
+
+<Record>
+		<stateid>32</stateid>
+		<statename>Idaho</statename>
+</Record>
+<Record>
+		<stateid>33</stateid>
+		<statename>Alaska</statename>
+</Record>
+<Record>
+
+		<stateid>34</stateid>
+		<statename>Alabama</statename>
+</Record>
+<Record>
+		<stateid>35</stateid>
+		<statename>American Samoa</statename>
+</Record>
+<Record>
+		<stateid>36</stateid>
+
+		<statename>Arizona</statename>
+</Record>
+<Record>
+		<stateid>37</stateid>
+		<statename>Arkansas</statename>
+</Record>
+<Record>
+		<stateid>38</stateid>
+		<statename>California</statename>
+
+</Record>
+<Record>
+		<stateid>39</stateid>
+		<statename>Colorado</statename>
+</Record>
+<Record>
+		<stateid>40</stateid>
+		<statename>Connecticut</statename>
+</Record>
+
+<Record>
+		<stateid>41</stateid>
+		<statename>Delaware</statename>
+</Record>
+<Record>
+		<stateid>42</stateid>
+		<statename>District of Columbia</statename>
+</Record>
+<Record>
+
+		<stateid>43</stateid>
+		<statename>Federated state of Micronesia</statename>
+</Record>
+<Record>
+		<stateid>44</stateid>
+		<statename>Florida</statename>
+</Record>
+<Record>
+		<stateid>45</stateid>
+
+		<statename>Georgia</statename>
+</Record>
+<Record>
+		<stateid>46</stateid>
+		<statename>Guam</statename>
+</Record>
+<Record>
+		<stateid>47</stateid>
+		<statename>Hawaii</statename>
+
+</Record>
+<Record>
+		<stateid>48</stateid>
+		<statename>Idaho</statename>
+</Record>
+<Record>
+		<stateid>49</stateid>
+		<statename>Illinois</statename>
+</Record>
+
+<Record>
+		<stateid>50</stateid>
+		<statename>Indiana</statename>
+</Record>
+<Record>
+		<stateid>51</stateid>
+		<statename>Iowa</statename>
+</Record>
+<Record>
+
+		<stateid>52</stateid>
+		<statename>Kansas</statename>
+</Record>
+<Record>
+		<stateid>53</stateid>
+		<statename>Kentucky</statename>
+</Record>
+<Record>
+		<stateid>54</stateid>
+
+		<statename>Louisiana</statename>
+</Record>
+<Record>
+		<stateid>55</stateid>
+		<statename>Maine</statename>
+</Record>
+<Record>
+		<stateid>56</stateid>
+		<statename>Marshall Islands</statename>
+
+</Record>
+<Record>
+		<stateid>57</stateid>
+		<statename>Maryland</statename>
+</Record>
+<Record>
+		<stateid>58</stateid>
+		<statename>Massachusetts</statename>
+</Record>
+
+<Record>
+		<stateid>59</stateid>
+		<statename>Michigan</statename>
+</Record>
+<Record>
+		<stateid>60</stateid>
+		<statename>Minnesota</statename>
+</Record>
+<Record>
+
+		<stateid>61</stateid>
+		<statename>Mississippi</statename>
+</Record>
+<Record>
+		<stateid>62</stateid>
+		<statename>Missouri</statename>
+</Record>
+<Record>
+		<stateid>63</stateid>
+
+		<statename>Montana</statename>
+</Record>
+<Record>
+		<stateid>64</stateid>
+		<statename>Nebraska</statename>
+</Record>
+<Record>
+		<stateid>65</stateid>
+		<statename>Nevada</statename>
+
+</Record>
+<Record>
+		<stateid>66</stateid>
+		<statename>New Hampshire</statename>
+</Record>
+<Record>
+		<stateid>67</stateid>
+		<statename>New Jersey</statename>
+</Record>
+
+<Record>
+		<stateid>68</stateid>
+		<statename>New Mexico</statename>
+</Record>
+<Record>
+		<stateid>69</stateid>
+		<statename>New York</statename>
+</Record>
+<Record>
+
+		<stateid>70</stateid>
+		<statename>North Carolina</statename>
+</Record>
+<Record>
+		<stateid>71</stateid>
+		<statename>North Dakota</statename>
+</Record>
+<Record>
+		<stateid>72</stateid>
+
+		<statename>Northern Mariana Islands</statename>
+</Record>
+<Record>
+		<stateid>73</stateid>
+		<statename>Ohio</statename>
+</Record>
+<Record>
+		<stateid>74</stateid>
+		<statename>Oklahoma</statename>
+
+</Record>
+<Record>
+		<stateid>75</stateid>
+		<statename>Oregon</statename>
+</Record>
+<Record>
+		<stateid>76</stateid>
+		<statename>Palau</statename>
+</Record>
+
+<Record>
+		<stateid>77</stateid>
+		<statename>Pennsylvania</statename>
+</Record>
+<Record>
+		<stateid>78</stateid>
+		<statename>Puerto Rico</statename>
+</Record>
+<Record>
+
+		<stateid>79</stateid>
+		<statename>Rhode Island</statename>
+</Record>
+<Record>
+		<stateid>80</stateid>
+		<statename>South Carolina</statename>
+</Record>
+<Record>
+		<stateid>81</stateid>
+
+		<statename>South Dakota</statename>
+</Record>
+<Record>
+		<stateid>82</stateid>
+		<statename>Tennessee</statename>
+</Record>
+<Record>
+		<stateid>83</stateid>
+		<statename>Texas</statename>
+
+</Record>
+<Record>
+		<stateid>84</stateid>
+		<statename>Utah</statename>
+</Record>
+<Record>
+		<stateid>85</stateid>
+		<statename>Vermont</statename>
+</Record>
+
+<Record>
+		<stateid>86</stateid>
+		<statename>Virgin Islands</statename>
+</Record>
+<Record>
+		<stateid>87</stateid>
+		<statename>Virginia</statename>
+</Record>
+<Record>
+
+		<stateid>88</stateid>
+		<statename>Washington</statename>
+</Record>
+<Record>
+		<stateid>89</stateid>
+		<statename>West Virginia</statename>
+</Record>
+<Record>
+		<stateid>90</stateid>
+
+		<statename>Wisconsin</statename>
+</Record>
+<Record>
+		<stateid>91</stateid>
+		<statename>Wyoming</statename>
+</Record>
+</Root>
+</Doc>

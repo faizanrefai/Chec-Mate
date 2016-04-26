@@ -1,0 +1,2249 @@
+TChec-MateView
+v7
+r0
+t347969310.459338
+cCheck dependencies
+cProcessInfoPlistFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Info.plist" Chec-MateView/Chec-MateView-Info.plist
+cProcessPCH /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch.gch Chec-MateView/Chec-MateView-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/main.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec_MateViewAppDelegate.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/VerifyView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AboutUsView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/FAQView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Locate_View.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SettingView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AggrementView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/UploadPhoto.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterDisplay.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Answers.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSString+SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonBase.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonParser.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonWriter.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/webService.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/XMLReader.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView" normal i386
+cGenerateDSYMFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app.dSYM" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView"
+cCopyStringsFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/InfoPlist.strings" Chec-MateView/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib"
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib"
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/checkbox_checked.png checkbox_checked.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/checkbox_unchecked.png checkbox_unchecked.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Agree.png checkmateicon/Agree.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-177.png checkmateicon/Layer-177.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo.png checkmateicon/Upload-Photo.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Cancel.png checkmateicon/Cancel.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-1.png checkmateicon/Layer-1.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/uncheck.png checkmateicon/uncheck.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3.png checkmateicon/Shape-3.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo.png checkmateicon/Take-Photo.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Sign-In.png checkmateicon/Sign-In.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png checkmateicon/_0002_Take-Photo.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png Checkmateicon@2x/_0002_Take-Photo.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3.png checkmateicon/Shape-3-copy-3.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/aboutus.png checkmateicon/aboutus.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueCheck.png checkmateicon/blueCheck.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck.png checkmateicon/blueUncheck.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDsel.png checkmateicon/cellDsel.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSel.png checkmateicon/cellSel.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/faq.png checkmateicon/faq.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadBlue.png checkmateicon/loadBlue.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadWhite.png checkmateicon/loadWhite.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/locate.png checkmateicon/locate.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/register.png checkmateicon/register.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall.png checkmateicon/searchWordWall.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/verify.png checkmateicon/verify.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/wordSearch.png checkmateicon/wordSearch.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Agree@2x.png Checkmateicon@2x/Agree@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-177@2x.png Checkmateicon@2x/Layer-177@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo@2x.png Checkmateicon@2x/Upload-Photo@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Cancel@2x.png Checkmateicon@2x/Cancel@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-1@2x.png Checkmateicon@2x/Layer-1@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/uncheck@2x.png Checkmateicon@2x/uncheck@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3@2x.png Checkmateicon@2x/Shape-3@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo@2x.png Checkmateicon@2x/Take-Photo@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Sign-In@2x.png Checkmateicon@2x/Sign-In@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3@2x.png Checkmateicon@2x/Shape-3-copy-3@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/aboutus@2x.png Checkmateicon@2x/aboutus@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueCheck@2x.png Checkmateicon@2x/blueCheck@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck@2x.png Checkmateicon@2x/blueUncheck@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDsel@2x.png Checkmateicon@2x/cellDsel@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSel@2x.png Checkmateicon@2x/cellSel@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png Checkmateicon@2x/check@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png Checkmateicon@2x/../checkmateicon/check@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/faq@2x.png Checkmateicon@2x/faq@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadBlue@2x.png Checkmateicon@2x/loadBlue@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadWhite@2x.png Checkmateicon@2x/loadWhite@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/locate@2x.png Checkmateicon@2x/locate@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/register@2x.png Checkmateicon@2x/register@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall@2x.png Checkmateicon@2x/searchWordWall@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/verify@2x.png Checkmateicon@2x/verify@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/wordSearch@2x.png Checkmateicon@2x/wordSearch@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/dSel.png checkmateicon/dSel.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/dSel@2x.png Checkmateicon@2x/dSel@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/sel.png checkmateicon/sel.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/sel@2x.png Checkmateicon@2x/sel@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/check.png checkmateicon/../Checkmateicon@2x/check.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDselect@2x.png Checkmateicon@2x/../checkmateicon/cellDselect@2x.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDselect.png checkmateicon/../Checkmateicon@2x/cellDselect.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSelect.png checkmateicon/cellSelect.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSelect@2x.png Checkmateicon@2x/cellSelect@2x.png
+cCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib"
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/icon.png checkmateicon/icon.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/Default.png checkmateicon/Default.png
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/FaceDetect.xml FaceDetect.xml
+cCpResource build/Debug-iphonesimulator/Chec-MateView.app/us_state_list.xml us_state_list.xml
+cCpResource "build/Debug-iphonesimulator/Chec-MateView.app/Chec-Mate Logo.png" "Chec-Mate Logo.png"
+cTouch "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-Mate Logo.png
+c000000004F0AEB4600000000000139BE
+t1326115654
+s80318
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.h
+c000000004F0BE7B8000000000000012F
+t1326180280
+s303
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m
+c000000004F0BF6C800000000000005CF
+t1326184136
+s1487
+i"AboutUsView.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib
+c000000004F0C44C70000000000006AFA
+t1326204103
+s27386
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.h
+c000000004F0D52F3000000000000026D
+t1326273267
+s621
+i<UIKit/UIKit.h>
+i"JSON.h"
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m
+c000000004F0D5F8F0000000000002FE2
+t1326276495
+s12258
+i"AggrementView.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib
+c000000004F0D52F100000000000CFD1E
+t1326273265
+s851230
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.h
+c000000004F0C429900000000000001CC
+t1326203545
+s460
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m
+c000000004F0C45370000000000001A1A
+t1326204215
+s6682
+i"Answers.h"
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib
+c000000004F0C449D00000000000064DD
+t1326204061
+s25821
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec-MateView-Prefix.pch
+c000000004EB7C5B6000000000000014C
+t1320666550
+s332
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.h
+c000000004F0A79DE00000000000006ED
+t1326086622
+s1773
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m
+c000000004F0A79E00000000000000C44
+t1326086624
+s3140
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib
+c000000004F0BD00B0000000000005EAA
+t1326174219
+s24234
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.h
+c000000004F0BD65200000000000001FF
+t1326175826
+s511
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m
+c000000004F0C025F0000000000001555
+t1326187103
+s5461
+i"FAQView.h"
+i"Chec_MateViewAppDelegate.h"
+i"Answers.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib
+c000000004F0C4083000000000000A117
+t1326203011
+s41239
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.h
+c000000004EDF2B1800000000000000F4
+t1323248408
+s244
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m
+c000000004F0D195D00000000000006F5
+t1326258525
+s1781
+i"Locate_View.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib
+c000000004F0BFE5B00000000000048DD
+t1326186075
+s18653
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.h
+c000000004EF85814000000000000034C
+t1324898324
+s844
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m
+c000000004F0D199900000000000011D6
+t1326258585
+s4566
+i"RegisterDisplay.h"
+i"AggrementView.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib
+c000000004F0C470D0000000000016AE9
+t1326204685
+s92905
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.h
+c000000004F0A817D0000000000000426
+t1326088573
+s1062
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+i"XMLReader.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m
+c000000004F0D5E300000000000002B28
+t1326276144
+s11048
+i"RegisterView.h"
+i"SettingView.h"
+i"UploadPhoto.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib
+c000000004F0C47920000000000018F90
+t1326204818
+s102288
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.h
+c000000004EC4D02600000000000000F7
+t1321521190
+s247
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m
+c000000004EF86E820000000000000685
+t1324904066
+s1669
+i"SettingView.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib
+c000000004F0BE051000000000000823F
+t1326178385
+s33343
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.h
+c000000004EF876C00000000000000200
+t1324906176
+s512
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m
+c000000004F1696460000000000001281
+t1326880326
+s4737
+i"UploadPhoto.h"
+i"RegisterView.h"
+i"RegisterDisplay.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib
+c000000004F0C47F900000000000C9695
+t1326204921
+s824981
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.h
+c000000004F0A7A56000000000000016A
+t1326086742
+s362
+i<UIKit/UIKit.h>
+i"Chec_MateViewAppDelegate.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m
+c000000004F0BE1D4000000000000069C
+t1326178772
+s1692
+i"VerifyView.h"
+i"AggrementView.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib
+c000000004F0D2A4B00000000000CA7DC
+t1326262859
+s829404
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/InfoPlist.strings
+c000000004EB7C5B6000000000000002D
+t1320666550
+s45
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib
+c000000004F0D1823000000000000FFEC
+t1326258211
+s65516
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m
+c000000004EF85C9A000000000000015B
+t1324899482
+s347
+i<UIKit/UIKit.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/cellDselect@2x.png
+c000000004EFAA16000000000000016DC
+t1325048160
+s5852
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/check@2x.png
+c000000004EF87CCE0000000000000F5B
+t1324907726
+s3931
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Agree@2x.png
+c000000004EF84F8A0000000000001A4C
+t1324896138
+s6732
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Cancel@2x.png
+c000000004EF8390600000000000014B7
+t1324890374
+s5303
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-177@2x.png
+c000000004EF839060000000000003B99
+t1324890374
+s15257
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-1@2x.png
+c000000004EF85F1E00000000000202D8
+t1324900126
+s131800
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3-copy-3@2x.png
+c000000004EF839BA0000000000000D4B
+t1324890554
+s3403
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3@2x.png
+c000000004EF839B80000000000000590
+t1324890552
+s1424
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Sign-In@2x.png
+c000000004EF83906000000000000164E
+t1324890374
+s5710
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Take-Photo@2x.png
+c000000004EF86088000000000000197F
+t1324900488
+s6527
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Upload-Photo@2x.png
+c000000004EF860880000000000001598
+t1324900488
+s5528
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/_0002_Take-Photo.png
+c000000004EF839BA00000000000009B9
+t1324890554
+s2489
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/aboutus@2x.png
+c000000004EF836D40000000000000FFC
+t1324889812
+s4092
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueCheck@2x.png
+c000000004EF850FC0000000000001000
+t1324896508
+s4096
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueUncheck@2x.png
+c000000004EF8521C0000000000000BFC
+t1324896796
+s3068
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellDsel@2x.png
+c000000004EF852F200000000000017C9
+t1324897010
+s6089
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSel@2x.png
+c000000004EF853A40000000000001F56
+t1324897188
+s8022
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSelect@2x.png
+c000000004EFAA1600000000000001E83
+t1325048160
+s7811
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/check@2x.png
+c000000004EF854EC0000000000000CE1
+t1324897516
+s3297
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/dSel@2x.png
+c000000004EF873B20000000000000D86
+t1324905394
+s3462
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/faq@2x.png
+c000000004EF836160000000000000EFA
+t1324889622
+s3834
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadBlue@2x.png
+c000000004EF83B22000000000000105A
+t1324890914
+s4186
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadWhite@2x.png
+c000000004EF83ACC0000000000000D8C
+t1324890828
+s3468
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/locate@2x.png
+c000000004EF836860000000000000FFA
+t1324889734
+s4090
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/register@2x.png
+c000000004EF835E60000000000001204
+t1324889574
+s4612
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/searchWordWall@2x.png
+c000000004EF83B8E0000000000006456
+t1324891022
+s25686
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/sel@2x.png
+c000000004EF874B00000000000001520
+t1324905648
+s5408
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/uncheck@2x.png
+c000000004EF84F8A0000000000000529
+t1324896138
+s1321
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/verify@2x.png
+c000000004EF837280000000000000FEC
+t1324889896
+s4076
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/wordSearch@2x.png
+c000000004EF83A660000000000023EB2
+t1324890726
+s147122
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /FaceDetect.xml
+c000000004F16A1680000000000007F53
+t1326883176
+s32595
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/JSON.h
+c000000004E796F7A00000000000008F9
+t1316581242
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.h
+c000000004E796F7A0000000000000A01
+t1316581242
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m
+c000000004E796F7A000000000000089E
+t1316581242
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.h
+c000000004E796F7A0000000000000916
+t1316581242
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m
+c000000004E796F7A000000000000087D
+t1316581242
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.h
+c000000004E796F7A0000000000000AED
+t1316581242
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m
+c000000004EE218660000000000001ABC
+t1323440230
+s6844
+i"SBJSON.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.h
+c000000004E796F7A0000000000000B82
+t1316581242
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m
+c000000004EE2186E0000000000000AC1
+t1323440238
+s2753
+i"SBJsonBase.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.h
+c000000004E796F7A0000000000000C0B
+t1316581242
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m
+c000000004E796F7A00000000000036D0
+t1316581242
+s14032
+i"SBJsonParser.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.h
+c000000004E796F7A0000000000001140
+t1316581242
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m
+c000000004E796F7A0000000000001F26
+t1316581242
+s7974
+i"SBJsonWriter.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.h
+c000000004F0D5F7200000000000001D5
+t1326276466
+s469
+i<Foundation/Foundation.h>
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m
+c000000004F16A1540000000000001372
+t1326883156
+s4978
+i"XMLReader.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.h
+c000000004EE217AC0000000000000250
+t1323440044
+s592
+i<Foundation/Foundation.h>
+i"JSON.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m
+c000000004EE218B40000000000000686
+t1323440308
+s1670
+i"webService.h"
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AboutUsView.o
+t1326276499
+s42212
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AggrementView.o
+t1326276499
+s69740
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Answers.o
+t1326276499
+s52176
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec-MateView.LinkFileList
+c000000004F0D5F920000000000000BF9
+t1326276498
+s3065
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec_MateViewAppDelegate.o
+t1326276498
+s80368
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/FAQView.o
+t1326276499
+s60836
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Locate_View.o
+t1326276499
+s38188
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSObject+SBJSON.o
+t1326276500
+s5384
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSString+SBJSON.o
+t1326276500
+s5424
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterDisplay.o
+t1326276500
+s56996
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterView.o
+t1326276498
+s80256
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJSON.o
+t1326276500
+s18216
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonBase.o
+t1326276500
+s10488
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonParser.o
+t1326276500
+s33772
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonWriter.o
+t1326276500
+s25520
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SettingView.o
+t1326276499
+s37016
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/UploadPhoto.o
+t1326276499
+s57184
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/VerifyView.o
+t1326276498
+s41928
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/XMLReader.o
+t1326276500
+s17992
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/main.o
+t1326276498
+s3124
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/webService.o
+t1326276500
+s14268
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app
+t1326276510
+s2754
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app.dSYM
+t1326276501
+s102
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/AboutUsView.nib
+t1326276505
+s4939
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/AggrementView.nib
+t1326276507
+s19858
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Agree.png
+t1326276509
+s3971
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Agree@2x.png
+t1326276509
+s6732
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Answers.nib
+t1326276509
+s3510
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Cancel.png
+t1326276509
+s3495
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Cancel@2x.png
+t1326276509
+s5303
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-Mate Logo.png
+t1326276509
+s80318
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView
+t1326276501
+s186200
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/CustomCell.nib
+t1326276510
+s3577
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Default.png
+t1326276509
+s527071
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/FAQView.nib
+t1326276506
+s24120
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/FaceDetect.xml
+t1326276509
+s32595
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Info.plist
+t1326276498
+s836
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Layer-1.png
+t1326276509
+s53949
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Layer-177.png
+t1326276509
+s6830
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Layer-177@2x.png
+t1326276509
+s15257
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Layer-1@2x.png
+t1326276509
+s131800
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Locate_View.nib
+t1326276506
+s1675
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/PkgInfo
+t1326276498
+s8
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/RegisterDisplay.nib
+t1326276509
+s11846
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/RegisterView.nib
+t1326276504
+s13190
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/SettingView.nib
+t1326276507
+s4957
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3.png
+t1326276509
+s1864
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3@2x.png
+t1326276509
+s3403
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Shape-3.png
+t1326276509
+s1142
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Shape-3@2x.png
+t1326276509
+s1424
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Sign-In.png
+t1326276509
+s3626
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Sign-In@2x.png
+t1326276509
+s5710
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo.png
+t1326276509
+s3761
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo@2x.png
+t1326276509
+s6527
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo.png
+t1326276509
+s3631
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo@2x.png
+t1326276509
+s5528
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/UploadPhoto.nib
+t1326276508
+s4702
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/VerifyView.nib
+t1326276504
+s5456
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png
+t1326276509
+s2489
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/aboutus.png
+t1326276509
+s3426
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/aboutus@2x.png
+t1326276509
+s4092
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/blueCheck.png
+t1326276509
+s3347
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/blueCheck@2x.png
+t1326276509
+s4096
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck.png
+t1326276509
+s2911
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck@2x.png
+t1326276509
+s3068
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellDsel.png
+t1326276509
+s4495
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellDsel@2x.png
+t1326276509
+s6089
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellDselect.png
+t1326276509
+s3500
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellDselect@2x.png
+t1326276509
+s5852
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellSel.png
+t1326276509
+s5993
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellSel@2x.png
+t1326276509
+s8022
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellSelect.png
+t1326276509
+s4163
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/cellSelect@2x.png
+t1326276509
+s7811
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/check.png
+t1326276509
+s3403
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png
+t1326276509
+s3931
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/checkbox_checked.png
+t1326276509
+s6423
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/checkbox_unchecked.png
+t1326276509
+s5849
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/dSel.png
+t1326276509
+s3176
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/dSel@2x.png
+t1326276509
+s3462
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/InfoPlist.strings
+t1326276502
+s42
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/MainWindow.nib
+t1326276503
+s5950
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/faq.png
+t1326276509
+s3350
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/faq@2x.png
+t1326276509
+s3834
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/icon.png
+t1326276509
+s90636
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/loadBlue.png
+t1326276509
+s3401
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/loadBlue@2x.png
+t1326276509
+s4186
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/loadWhite.png
+t1326276509
+s3058
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/loadWhite@2x.png
+t1326276509
+s3468
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/locate.png
+t1326276509
+s3457
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/locate@2x.png
+t1326276509
+s4090
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/register.png
+t1326276509
+s3445
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/register@2x.png
+t1326276509
+s4612
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall.png
+t1326276509
+s16008
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall@2x.png
+t1326276509
+s25686
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/sel.png
+t1326276509
+s3935
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/sel@2x.png
+t1326276509
+s5408
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/uncheck.png
+t1326276509
+s1183
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/uncheck@2x.png
+t1326276509
+s1321
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/us_state_list.xml
+t1326276509
+s7647
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/verify.png
+t1326276509
+s3390
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/verify@2x.png
+t1326276509
+s4076
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/wordSearch.png
+t1326276509
+s51244
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/wordSearch@2x.png
+t1326276509
+s147122
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_checked.png
+c000000004EE1E5960000000000001917
+t1323427222
+s6423
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_unchecked.png
+c000000004EE1E59400000000000016D9
+t1323427220
+s5849
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/cellDselect.png
+c000000004EFAA1BC0000000000000DAC
+t1325048252
+s3500
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/check.png
+c000000004EF87CF00000000000000D4B
+t1324907760
+s3403
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Agree.png
+c000000004EF84FAA0000000000000F83
+t1324896170
+s3971
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Cancel.png
+c000000004EF839320000000000000DA7
+t1324890418
+s3495
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Default.png
+c000000004EFB0C2E0000000000080ADF
+t1325075502
+s527071
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-1.png
+c000000004EF85F4A000000000000D2BD
+t1324900170
+s53949
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-177.png
+c000000004EF839320000000000001AAE
+t1324890418
+s6830
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3-copy-3.png
+c000000004EF839D40000000000000748
+t1324890580
+s1864
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3.png
+c000000004EF839D40000000000000476
+t1324890580
+s1142
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Sign-In.png
+c000000004EF839320000000000000E2A
+t1324890418
+s3626
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Take-Photo.png
+c000000004EF8609C0000000000000EB1
+t1324900508
+s3761
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Upload-Photo.png
+c000000004EF8609C0000000000000E2F
+t1324900508
+s3631
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/_0002_Take-Photo.png
+c000000004EF839D4000000000000064A
+t1324890580
+s1610
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/aboutus.png
+c000000004EF836F20000000000000D62
+t1324889842
+s3426
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueCheck.png
+c000000004EF8511E0000000000000D13
+t1324896542
+s3347
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueUncheck.png
+c000000004EF8524E0000000000000B5F
+t1324896846
+s2911
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellDsel.png
+c000000004EF85370000000000000118F
+t1324897136
+s4495
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSel.png
+c000000004EF853CC0000000000001769
+t1324897228
+s5993
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSelect.png
+c000000004EFAA1BC0000000000001043
+t1325048252
+s4163
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/dSel.png
+c000000004EF873D80000000000000C68
+t1324905432
+s3176
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/faq.png
+c000000004EF8363E0000000000000D16
+t1324889662
+s3350
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/icon.png
+c000000004EFAECE0000000000001620C
+t1325067488
+s90636
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadBlue.png
+c000000004EF83B3E0000000000000D49
+t1324890942
+s3401
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadWhite.png
+c000000004EF83AF00000000000000BF2
+t1324890864
+s3058
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/locate.png
+c000000004EF836A00000000000000D81
+t1324889760
+s3457
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/register.png
+c000000004EF835BE0000000000000D75
+t1324889534
+s3445
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/searchWordWall.png
+c000000004EF83BB40000000000003E88
+t1324891060
+s16008
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/sel.png
+c000000004EF874C80000000000000F5F
+t1324905672
+s3935
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/uncheck.png
+c000000004EF84FAA000000000000049F
+t1324896170
+s1183
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/verify.png
+c000000004EF8373C0000000000000D3E
+t1324889916
+s3390
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/wordSearch.png
+c000000004EF83A4C000000000000C82C
+t1324890700
+s51244
+
+N/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /us_state_list.xml
+c000000004F0AED3E0000000000001DDF
+t1326116158
+s7647
+
+N/var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch.gch
+t1326271206
+s11992272
+
+NChec-MateView/Chec-MateView-Info.plist
+c000000004EFB0A5400000000000004AC
+t1325075028
+s1196
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347969298#347969298#0(338"[WARN]Warning: Multiple build commands for output file /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png[WARN]Warning: Multiple build commands for output file /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png2(22@166"Warning: Multiple build commands for output file /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png347969298#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png347969298#18446744073709551615#0#0(1@0"0(0#1#0"8776032192#0"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AboutUsView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.904276
+e347969299.116540
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AboutUsView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m347969298#347969299#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m8877755072#2305"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AboutUsView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AggrementView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.368409
+e347969299.760128
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AggrementView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@88"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m347969299#347969299#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m8877638432#2309"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/AggrementView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Answers.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.760301
+e347969299.974863
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Answers.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@82"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m347969299#347969299#0(0"0(0#0#74"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m8805168416#2297"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Answers.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec_MateViewAppDelegate.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.226157
+e347969298.616147
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec_MateViewAppDelegate.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@99"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m347969298#347969298#0(0"0(0#0#91"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m8783305856#2331"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec_MateViewAppDelegate.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec_MateViewAppDelegate.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/FAQView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.919683
+e347969299.159281
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/FAQView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@82"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m347969298#347969299#0(0"0(0#0#74"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m8874355552#2297"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/FAQView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Locate_View.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.116709
+e347969299.368231
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Locate_View.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m347969299#347969299#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m8811300896#2305"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Locate_View.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.975042
+e347969300.107671
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m347969299#347969300#0(0"0(0#0#73"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m8617965376#2304"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSObject+SBJSON.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSString+SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.026909
+e347969300.222000
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m347969300#347969300#0(0"0(0#0#73"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m8610279040#2304"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/NSString+SBJSON.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterDisplay.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.756342
+e347969300.026426
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterDisplay.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@90"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m347969299#347969300#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m8811523712#2313"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterDisplay.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.408773
+e347969298.919515
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m: In function '-[RegisterView CheckCountry]':
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m:379: warning: unused variable 'strCountry'
+lSLF07#2@87"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m347969298#347969298#0(248"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m: In function '-[RegisterView CheckCountry]':/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m:379: warning: unused variable 'strCountry'1(22@28"Unused variable 'strCountry'347969298#125#123#0(6@79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m347968944#379#0#379#0#19"unused variable '*'0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m8623956000#2307"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/RegisterView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJSON.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.107874
+e347969300.313763
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJSON.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@72"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m347969300#347969300#0(0"0(0#0#64"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m8771186656#2286"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJSON.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJSON.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonBase.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.222233
+e347969300.346321
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonBase.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m347969300#347969300#0(0"0(0#0#68"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m8643994048#2294"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonBase.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonParser.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.313947
+e347969300.603996
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonParser.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m347969300#347969300#0(0"0(0#0#70"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m8877005280#2298"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonParser.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonWriter.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.346503
+e347969300.581717
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m347969300#347969300#0(0"0(0#0#70"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m8819104768#2298"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/SBJsonWriter.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SettingView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.159462
+e347969299.486225
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SettingView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m347969299#347969299#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m8794833696#2305"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/SettingView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/UploadPhoto.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969299.486399
+e347969299.755913
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/UploadPhoto.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m347969299#347969299#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m8813812864#2305"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/UploadPhoto.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/VerifyView.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.616329
+e347969298.904102
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/VerifyView.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m347969298#347969298#0(0"0(0#0#77"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m8612547904#2303"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/VerifyView.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/XMLReader.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.604172
+e347969300.830332
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/XMLReader.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m: In function '-[XMLReader objectWithData:]':
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m:74: warning: class 'XMLReader' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@75"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m347969300#347969300#0(266"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m: In function '-[XMLReader objectWithData:]':/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m:74: warning: class 'XMLReader' does not implement the 'NSXMLParserDelegate' protocol1(22@71"Class 'XMLReader' does not implement the 'NSXMLParserDelegate' protocol347969300#113#153#0(6@67"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m348575956#74#0#74#0#45"class '*' does not implement the '*' protocol0(0#0#67"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m8779846912#2292"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/XMLReader.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/XMLReader.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/main.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969298.224194
+e347969298.408462
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/main.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m347969298#347969298#0(0"0(0#0#71"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m8813998624#2291"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/main.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/webService.o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s347969300.581884
+e347969300.779288
+r1
+xCompileC
+xbuild/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/webService.o
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m347969300#347969300#0(0"0(0#0#68"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m8805082368#2294"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-generated-files.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-own-target-headers.hmap" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-all-target-headers.hmap" -iquote "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Chec-MateView-project-headers.hmap" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/include" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources/i386" "-I/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /JSON/webService.m" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/webService.o"0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib"
+s347969304.363218
+e347969305.408582
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib
+lSLF07#2@40"CompileXIB Chec-MateView/AboutUsView.xib347969304#347969305#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib8609680480#634"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/AboutUsView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AboutUsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib"
+s347969306.503003
+e347969307.698535
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib:29: warning: The 'Touch Up Inside' event of 'Custom Button' is connected to the 'Click_CheckBox:' selector of 'File's Owner', but 'Click_CheckBox:' is no longer defined on 'AggrementView'.
+lSLF07#2@42"CompileXIB Chec-MateView/AggrementView.xib347969306#347969307#0(313"/* com.apple.ibtool.document.warnings *//Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib:29: warning: The 'Touch Up Inside' event of 'Custom Button' is connected to the 'Click_CheckBox:' selector of 'File's Owner', but 'Click_CheckBox:' is no longer defined on 'AggrementView'.1(22@175"The 'Touch Up Inside' event of 'Custom Button' is connected to the 'Click_CheckBox:' selector of 'File's Owner', but 'Click_CheckBox:' is no longer defined on 'AggrementView'.347969307#18446744073709551615#0#0(6@82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib347966065#29#0#29#0#0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib8877705216#638"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/AggrementView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/AggrementView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib"
+s347969308.250467
+e347969309.112455
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib
+lSLF07#2@36"CompileXIB Chec-MateView/Answers.xib347969308#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib8811655040#626"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Answers.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Answers.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib"
+s347969309.652885
+e347969310.446456
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib
+lSLF07#2@39"CompileXIB Chec-MateView/CustomCell.xib347969309#347969310#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib8631438432#632"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/CustomCell.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/CustomCell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib"
+s347969304.994900
+e347969306.189278
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib
+lSLF07#2@36"CompileXIB Chec-MateView/FAQView.xib347969304#347969306#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib8877020736#626"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/FAQView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/FAQView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib"
+s347969305.408738
+e347969306.502842
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib
+lSLF07#2@40"CompileXIB Chec-MateView/Locate_View.xib347969305#347969306#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib8817643680#634"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Locate_View.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Locate_View.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib"
+s347969307.698755
+e347969309.757946
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib
+lSLF07#2@44"CompileXIB Chec-MateView/RegisterDisplay.xib347969307#347969309#0(0"0(0#0#84"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib8647811680#642"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/RegisterDisplay.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterDisplay.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib"
+s347969302.018992
+e347969304.363059
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib
+lSLF07#2@41"CompileXIB Chec-MateView/RegisterView.xib347969302#347969304#0(0"0(0#0#81"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib8645642560#636"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/RegisterView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/RegisterView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib"
+s347969306.189569
+e347969307.247094
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib:12: warning: The 'Touch Up Inside' event of 'Switch' is connected to the 'switchingbtn:' selector of 'File's Owner', but 'switchingbtn:' is no longer defined on 'SettingView'.
+lSLF07#2@40"CompileXIB Chec-MateView/SettingView.xib347969306#347969307#0(298"/* com.apple.ibtool.document.warnings *//Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib:12: warning: The 'Touch Up Inside' event of 'Switch' is connected to the 'switchingbtn:' selector of 'File's Owner', but 'switchingbtn:' is no longer defined on 'SettingView'.1(22@162"The 'Touch Up Inside' event of 'Switch' is connected to the 'switchingbtn:' selector of 'File's Owner', but 'switchingbtn:' is no longer defined on 'SettingView'.347969307#18446744073709551615#0#0(6@80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib347871185#12#0#12#0#0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib8930000000#634"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/SettingView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/SettingView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib"
+s347969307.247252
+e347969308.250306
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib:5: warning: The 'Touch Up Inside' event of 'Custom Button (Take Photo)' is connected to the 'addNewPhotoClicked:' selector of 'File's Owner', but 'addNewPhotoClicked:' is no longer defined on 'UploadPhoto'.
+lSLF07#2@40"CompileXIB Chec-MateView/UploadPhoto.xib347969307#347969308#0(329"/* com.apple.ibtool.document.warnings *//Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib:5: warning: The 'Touch Up Inside' event of 'Custom Button (Take Photo)' is connected to the 'addNewPhotoClicked:' selector of 'File's Owner', but 'addNewPhotoClicked:' is no longer defined on 'UploadPhoto'.1(22@194"The 'Touch Up Inside' event of 'Custom Button (Take Photo)' is connected to the 'addNewPhotoClicked:' selector of 'File's Owner', but 'addNewPhotoClicked:' is no longer defined on 'UploadPhoto'.347969308#18446744073709551615#0#0(6@80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib347897721#5#0#5#0#0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib8875997600#634"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/UploadPhoto.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/UploadPhoto.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib"
+s347969303.912069
+e347969304.994746
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib
+lSLF07#2@39"CompileXIB Chec-MateView/VerifyView.xib347969303#347969304#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib8612402848#632"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/VerifyView.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/VerifyView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib"
+s347969301.623012
+e347969303.911847
+r1
+xCompileXIB
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib
+lSLF07#2@48"CompileXIB Chec-MateView/en.lproj/MainWindow.xib347969301#347969303#0(0"0(0#0#88"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib8812945984#650"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/MainWindow.nib" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/InfoPlist.strings" Chec-MateView/en.lproj/InfoPlist.strings
+s347969301.616024
+e347969302.018835
+r1
+xCopyStringsFile
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj/InfoPlist.strings
+xChec-MateView/en.lproj/InfoPlist.strings
+lSLF07#2@45"Copy Chec-MateView/en.lproj/InfoPlist.strings347969301#347969302#0(0"0(0#0#91"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/en.lproj/InfoPlist.strings8935312704#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Chec-MateView/en.lproj/InfoPlist.strings --outdir "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/en.lproj"0#
+
+CCpResource "build/Debug-iphonesimulator/Chec-MateView.app/Chec-Mate Logo.png" "Chec-Mate Logo.png"
+s347969309.805843
+e347969309.817919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Chec-Mate Logo.png
+xChec-Mate Logo.png
+lSLF07#2@23"Copy Chec-Mate Logo.png347969309#347969309#0(0"0(0#0#69"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-Mate Logo.png8816705888#524"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-Mate Logo.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Agree.png checkmateicon/Agree.png
+s347969309.118145
+e347969309.176667
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Agree.png
+xcheckmateicon/Agree.png
+lSLF07#2@28"Copy checkmateicon/Agree.png347969309#347969309#0(0"0(0#0#74"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Agree.png8792591296#529"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Agree.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Agree@2x.png Checkmateicon@2x/Agree@2x.png
+s347969309.316399
+e347969309.405296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Agree@2x.png
+xCheckmateicon@2x/Agree@2x.png
+lSLF07#2@34"Copy Checkmateicon@2x/Agree@2x.png347969309#347969309#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Agree@2x.png8636984416#535"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Agree@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Cancel.png checkmateicon/Cancel.png
+s347969309.136513
+e347969309.177732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Cancel.png
+xcheckmateicon/Cancel.png
+lSLF07#2@29"Copy checkmateicon/Cancel.png347969309#347969309#0(0"0(0#0#75"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Cancel.png8741624416#530"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Cancel.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Cancel@2x.png Checkmateicon@2x/Cancel@2x.png
+s347969309.394816
+e347969309.473598
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Cancel@2x.png
+xCheckmateicon@2x/Cancel@2x.png
+lSLF07#2@35"Copy Checkmateicon@2x/Cancel@2x.png347969309#347969309#0(0"0(0#0#81"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Cancel@2x.png8615870560#536"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Cancel@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Default.png checkmateicon/Default.png
+s347969309.762831
+e347969309.815412
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Default.png
+xcheckmateicon/Default.png
+lSLF07#2@30"Copy checkmateicon/Default.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Default.png8607401024#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Default.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/FaceDetect.xml FaceDetect.xml
+s347969309.794931
+e347969309.815612
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/FaceDetect.xml
+xFaceDetect.xml
+lSLF07#2@19"Copy FaceDetect.xml347969309#347969309#0(0"0(0#0#65"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /FaceDetect.xml8877061760#520"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /FaceDetect.xml" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-1.png checkmateicon/Layer-1.png
+s347969309.140508
+e347969309.177970
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Layer-1.png
+xcheckmateicon/Layer-1.png
+lSLF07#2@30"Copy checkmateicon/Layer-1.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-1.png8737428160#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-1.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-177.png checkmateicon/Layer-177.png
+s347969309.132257
+e347969309.176915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Layer-177.png
+xcheckmateicon/Layer-177.png
+lSLF07#2@32"Copy checkmateicon/Layer-177.png347969309#347969309#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-177.png8789454272#533"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Layer-177.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-177@2x.png Checkmateicon@2x/Layer-177@2x.png
+s347969309.326841
+e347969309.405502
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Layer-177@2x.png
+xCheckmateicon@2x/Layer-177@2x.png
+lSLF07#2@38"Copy Checkmateicon@2x/Layer-177@2x.png347969309#347969309#0(0"0(0#0#84"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-177@2x.png8636792224#539"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-177@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Layer-1@2x.png Checkmateicon@2x/Layer-1@2x.png
+s347969309.405854
+e347969309.471656
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Layer-1@2x.png
+xCheckmateicon@2x/Layer-1@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/Layer-1@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-1@2x.png8930792320#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Layer-1@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3.png checkmateicon/Shape-3-copy-3.png
+s347969309.199305
+e347969309.230910
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3.png
+xcheckmateicon/Shape-3-copy-3.png
+lSLF07#2@37"Copy checkmateicon/Shape-3-copy-3.png347969309#347969309#0(0"0(0#0#83"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3-copy-3.png8614818240#538"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3-copy-3.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3@2x.png Checkmateicon@2x/Shape-3-copy-3@2x.png
+s347969309.450270
+e347969309.472891
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Shape-3-copy-3@2x.png
+xCheckmateicon@2x/Shape-3-copy-3@2x.png
+lSLF07#2@43"Copy Checkmateicon@2x/Shape-3-copy-3@2x.png347969309#347969309#0(0"0(0#0#89"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3-copy-3@2x.png8813762368#544"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3-copy-3@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3.png checkmateicon/Shape-3.png
+s347969309.143537
+e347969309.178459
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Shape-3.png
+xcheckmateicon/Shape-3.png
+lSLF07#2@30"Copy checkmateicon/Shape-3.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3.png8645986080#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Shape-3.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Shape-3@2x.png Checkmateicon@2x/Shape-3@2x.png
+s347969309.436404
+e347969309.472158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Shape-3@2x.png
+xCheckmateicon@2x/Shape-3@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/Shape-3@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3@2x.png8875671040#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Shape-3@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Sign-In.png checkmateicon/Sign-In.png
+s347969309.180135
+e347969309.230493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Sign-In.png
+xcheckmateicon/Sign-In.png
+lSLF07#2@30"Copy checkmateicon/Sign-In.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Sign-In.png8641700640#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Sign-In.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Sign-In@2x.png Checkmateicon@2x/Sign-In@2x.png
+s347969309.445461
+e347969309.472653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Sign-In@2x.png
+xCheckmateicon@2x/Sign-In@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/Sign-In@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Sign-In@2x.png8819175936#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Sign-In@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo.png checkmateicon/Take-Photo.png
+s347969309.178759
+e347969309.230204
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Take-Photo.png
+xcheckmateicon/Take-Photo.png
+lSLF07#2@33"Copy checkmateicon/Take-Photo.png347969309#347969309#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Take-Photo.png8644107104#534"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Take-Photo.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Take-Photo@2x.png Checkmateicon@2x/Take-Photo@2x.png
+s347969309.437832
+e347969309.472398
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Take-Photo@2x.png
+xCheckmateicon@2x/Take-Photo@2x.png
+lSLF07#2@39"Copy Checkmateicon@2x/Take-Photo@2x.png347969309#347969309#0(0"0(0#0#85"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Take-Photo@2x.png8873278912#540"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Take-Photo@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo.png checkmateicon/Upload-Photo.png
+s347969309.134077
+e347969309.177485
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo.png
+xcheckmateicon/Upload-Photo.png
+lSLF07#2@35"Copy checkmateicon/Upload-Photo.png347969309#347969309#0(0"0(0#0#81"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Upload-Photo.png8773977024#536"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/Upload-Photo.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo@2x.png Checkmateicon@2x/Upload-Photo@2x.png
+s347969309.332640
+e347969309.405716
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/Upload-Photo@2x.png
+xCheckmateicon@2x/Upload-Photo@2x.png
+lSLF07#2@41"Copy Checkmateicon@2x/Upload-Photo@2x.png347969309#347969309#0(0"0(0#0#87"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Upload-Photo@2x.png8636564960#542"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/Upload-Photo@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png Checkmateicon@2x/_0002_Take-Photo.png
+s347969309.190332
+e347969309.284234
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png
+xCheckmateicon@2x/_0002_Take-Photo.png
+lSLF07#2@42"Copy Checkmateicon@2x/_0002_Take-Photo.png347969309#347969309#0(0"0(0#0#88"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/_0002_Take-Photo.png8617405920#543"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/_0002_Take-Photo.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png checkmateicon/_0002_Take-Photo.png
+s347969309.181854
+e347969309.230703
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/_0002_Take-Photo.png
+xcheckmateicon/_0002_Take-Photo.png
+lSLF07#2@39"Copy checkmateicon/_0002_Take-Photo.png347969309#347969309#0(0"0(0#0#85"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/_0002_Take-Photo.png8617921696#540"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/_0002_Take-Photo.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/aboutus.png checkmateicon/aboutus.png
+s347969309.201751
+e347969309.284719
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/aboutus.png
+xcheckmateicon/aboutus.png
+lSLF07#2@30"Copy checkmateicon/aboutus.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/aboutus.png8613564928#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/aboutus.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/aboutus@2x.png Checkmateicon@2x/aboutus@2x.png
+s347969309.459871
+e347969309.473124
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/aboutus@2x.png
+xCheckmateicon@2x/aboutus@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/aboutus@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/aboutus@2x.png8811061920#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/aboutus@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueCheck.png checkmateicon/blueCheck.png
+s347969309.204057
+e347969309.284955
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/blueCheck.png
+xcheckmateicon/blueCheck.png
+lSLF07#2@32"Copy checkmateicon/blueCheck.png347969309#347969309#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueCheck.png8612791008#533"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueCheck.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueCheck@2x.png Checkmateicon@2x/blueCheck@2x.png
+s347969309.462134
+e347969309.473362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/blueCheck@2x.png
+xCheckmateicon@2x/blueCheck@2x.png
+lSLF07#2@38"Copy Checkmateicon@2x/blueCheck@2x.png347969309#347969309#0(0"0(0#0#84"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueCheck@2x.png8810640960#539"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueCheck@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck.png checkmateicon/blueUncheck.png
+s347969309.210571
+e347969309.285202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/blueUncheck.png
+xcheckmateicon/blueUncheck.png
+lSLF07#2@34"Copy checkmateicon/blueUncheck.png347969309#347969309#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueUncheck.png8610818048#535"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/blueUncheck.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/blueUncheck@2x.png Checkmateicon@2x/blueUncheck@2x.png
+s347969309.473723
+e347969309.539495
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/blueUncheck@2x.png
+xCheckmateicon@2x/blueUncheck@2x.png
+lSLF07#2@40"Copy Checkmateicon@2x/blueUncheck@2x.png347969309#347969309#0(0"0(0#0#86"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueUncheck@2x.png8808639968#541"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/blueUncheck@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDsel.png checkmateicon/cellDsel.png
+s347969309.216431
+e347969309.285500
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellDsel.png
+xcheckmateicon/cellDsel.png
+lSLF07#2@31"Copy checkmateicon/cellDsel.png347969309#347969309#0(0"0(0#0#77"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellDsel.png8608572448#532"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellDsel.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDsel@2x.png Checkmateicon@2x/cellDsel@2x.png
+s347969309.477459
+e347969309.539767
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellDsel@2x.png
+xCheckmateicon@2x/cellDsel@2x.png
+lSLF07#2@37"Copy Checkmateicon@2x/cellDsel@2x.png347969309#347969309#0(0"0(0#0#83"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellDsel@2x.png8792136128#538"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellDsel@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDselect.png checkmateicon/../Checkmateicon@2x/cellDselect.png
+s347969309.631253
+e347969309.671014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellDselect.png
+xcheckmateicon/../Checkmateicon@2x/cellDselect.png
+lSLF07#2@54"Copy checkmateicon/../Checkmateicon@2x/cellDselect.png347969309#347969309#0(0"0(0#0#100"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/cellDselect.png8632002144#555"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/cellDselect.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellDselect@2x.png Checkmateicon@2x/../checkmateicon/cellDselect@2x.png
+s347969309.615875
+e347969309.670548
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellDselect@2x.png
+xCheckmateicon@2x/../checkmateicon/cellDselect@2x.png
+lSLF07#2@57"Copy Checkmateicon@2x/../checkmateicon/cellDselect@2x.png347969309#347969309#0(0"0(0#0#103"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/cellDselect@2x.png8632230720#558"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/cellDselect@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSel.png checkmateicon/cellSel.png
+s347969309.231040
+e347969309.282292
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellSel.png
+xcheckmateicon/cellSel.png
+lSLF07#2@30"Copy checkmateicon/cellSel.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSel.png8643139808#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSel.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSel@2x.png Checkmateicon@2x/cellSel@2x.png
+s347969309.488970
+e347969309.540016
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellSel@2x.png
+xCheckmateicon@2x/cellSel@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/cellSel@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSel@2x.png8790940128#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSel@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSelect.png checkmateicon/cellSelect.png
+s347969309.639796
+e347969309.671246
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellSelect.png
+xcheckmateicon/cellSelect.png
+lSLF07#2@33"Copy checkmateicon/cellSelect.png347969309#347969309#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSelect.png8631849024#534"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/cellSelect.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/cellSelect@2x.png Checkmateicon@2x/cellSelect@2x.png
+s347969309.643184
+e347969309.671720
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/cellSelect@2x.png
+xCheckmateicon@2x/cellSelect@2x.png
+lSLF07#2@39"Copy Checkmateicon@2x/cellSelect@2x.png347969309#347969309#0(0"0(0#0#85"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSelect@2x.png8631681280#540"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/cellSelect@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/check.png checkmateicon/../Checkmateicon@2x/check.png
+s347969309.611079
+e347969309.671459
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/check.png
+xcheckmateicon/../Checkmateicon@2x/check.png
+lSLF07#2@48"Copy checkmateicon/../Checkmateicon@2x/check.png347969309#347969309#0(0"0(0#0#94"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/check.png8632379776#549"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/../Checkmateicon@2x/check.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png Checkmateicon@2x/../checkmateicon/check@2x.png
+s347969309.505326
+e347969309.540503
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/check@2x.png
+xCheckmateicon@2x/../checkmateicon/check@2x.png
+lSLF07#2@51"Copy Checkmateicon@2x/../checkmateicon/check@2x.png347969309#347969309#0(0"0(0#0#97"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/check@2x.png8739113344#552"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/../checkmateicon/check@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/check@2x.png Checkmateicon@2x/check@2x.png
+s347969309.495871
+e347969309.540263
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/check@2x.png
+xCheckmateicon@2x/check@2x.png
+lSLF07#2@34"Copy Checkmateicon@2x/check@2x.png347969309#347969309#0(0"0(0#0#80"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/check@2x.png8779852768#535"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/check@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/checkbox_checked.png checkbox_checked.png
+s347969309.112603
+e347969309.173621
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/checkbox_checked.png
+xcheckbox_checked.png
+lSLF07#2@25"Copy checkbox_checked.png347969309#347969309#0(0"0(0#0#71"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_checked.png8809360288#526"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_checked.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/checkbox_unchecked.png checkbox_unchecked.png
+s347969309.114321
+e347969309.176382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/checkbox_unchecked.png
+xcheckbox_unchecked.png
+lSLF07#2@27"Copy checkbox_unchecked.png347969309#347969309#0(0"0(0#0#73"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_unchecked.png8805102016#528"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkbox_unchecked.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/dSel.png checkmateicon/dSel.png
+s347969309.570350
+e347969309.615086
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/dSel.png
+xcheckmateicon/dSel.png
+lSLF07#2@27"Copy checkmateicon/dSel.png347969309#347969309#0(0"0(0#0#73"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/dSel.png8635561280#528"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/dSel.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/dSel@2x.png Checkmateicon@2x/dSel@2x.png
+s347969309.573265
+e347969309.615303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/dSel@2x.png
+xCheckmateicon@2x/dSel@2x.png
+lSLF07#2@33"Copy Checkmateicon@2x/dSel@2x.png347969309#347969309#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/dSel@2x.png8632917184#534"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/dSel@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/faq.png checkmateicon/faq.png
+s347969309.235366
+e347969309.283685
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/faq.png
+xcheckmateicon/faq.png
+lSLF07#2@26"Copy checkmateicon/faq.png347969309#347969309#0(0"0(0#0#72"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/faq.png8642611456#527"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/faq.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/faq@2x.png Checkmateicon@2x/faq@2x.png
+s347969309.509273
+e347969309.540750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/faq@2x.png
+xCheckmateicon@2x/faq@2x.png
+lSLF07#2@32"Copy Checkmateicon@2x/faq@2x.png347969309#347969309#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/faq@2x.png8647938848#533"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/faq@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/icon.png checkmateicon/icon.png
+s347969309.758099
+e347969309.815180
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/icon.png
+xcheckmateicon/icon.png
+lSLF07#2@27"Copy checkmateicon/icon.png347969309#347969309#0(0"0(0#0#73"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/icon.png8631205472#528"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/icon.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadBlue.png checkmateicon/loadBlue.png
+s347969309.266147
+e347969309.283981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/loadBlue.png
+xcheckmateicon/loadBlue.png
+lSLF07#2@31"Copy checkmateicon/loadBlue.png347969309#347969309#0(0"0(0#0#77"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadBlue.png8642254432#532"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadBlue.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadBlue@2x.png Checkmateicon@2x/loadBlue@2x.png
+s347969309.514931
+e347969309.540990
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/loadBlue@2x.png
+xCheckmateicon@2x/loadBlue@2x.png
+lSLF07#2@37"Copy Checkmateicon@2x/loadBlue@2x.png347969309#347969309#0(0"0(0#0#83"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadBlue@2x.png8645741952#538"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadBlue@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadWhite.png checkmateicon/loadWhite.png
+s347969309.271463
+e347969309.284484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/loadWhite.png
+xcheckmateicon/loadWhite.png
+lSLF07#2@32"Copy checkmateicon/loadWhite.png347969309#347969309#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadWhite.png8641940224#533"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/loadWhite.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/loadWhite@2x.png Checkmateicon@2x/loadWhite@2x.png
+s347969309.524172
+e347969309.541241
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/loadWhite@2x.png
+xCheckmateicon@2x/loadWhite@2x.png
+lSLF07#2@38"Copy Checkmateicon@2x/loadWhite@2x.png347969309#347969309#0(0"0(0#0#84"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadWhite@2x.png8643378752#539"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/loadWhite@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/locate.png checkmateicon/locate.png
+s347969309.285624
+e347969309.403842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/locate.png
+xcheckmateicon/locate.png
+lSLF07#2@29"Copy checkmateicon/locate.png347969309#347969309#0(0"0(0#0#75"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/locate.png8638382176#530"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/locate.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/locate@2x.png Checkmateicon@2x/locate@2x.png
+s347969309.529283
+e347969309.541490
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/locate@2x.png
+xCheckmateicon@2x/locate@2x.png
+lSLF07#2@35"Copy Checkmateicon@2x/locate@2x.png347969309#347969309#0(0"0(0#0#81"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/locate@2x.png8615420544#536"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/locate@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/register.png checkmateicon/register.png
+s347969309.294768
+e347969309.404064
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/register.png
+xcheckmateicon/register.png
+lSLF07#2@31"Copy checkmateicon/register.png347969309#347969309#0(0"0(0#0#77"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/register.png8637849376#532"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/register.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/register@2x.png Checkmateicon@2x/register@2x.png
+s347969309.541662
+e347969309.614217
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/register@2x.png
+xCheckmateicon@2x/register@2x.png
+lSLF07#2@37"Copy Checkmateicon@2x/register@2x.png347969309#347969309#0(0"0(0#0#83"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/register@2x.png8612789600#538"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/register@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall.png checkmateicon/searchWordWall.png
+s347969309.300802
+e347969309.404276
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/searchWordWall.png
+xcheckmateicon/searchWordWall.png
+lSLF07#2@37"Copy checkmateicon/searchWordWall.png347969309#347969309#0(0"0(0#0#83"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/searchWordWall.png8637565504#538"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/searchWordWall.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/searchWordWall@2x.png Checkmateicon@2x/searchWordWall@2x.png
+s347969309.548435
+e347969309.614447
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/searchWordWall@2x.png
+xCheckmateicon@2x/searchWordWall@2x.png
+lSLF07#2@43"Copy Checkmateicon@2x/searchWordWall@2x.png347969309#347969309#0(0"0(0#0#89"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/searchWordWall@2x.png8609480736#544"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/searchWordWall@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/sel.png checkmateicon/sel.png
+s347969309.577516
+e347969309.615518
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/sel.png
+xcheckmateicon/sel.png
+lSLF07#2@26"Copy checkmateicon/sel.png347969309#347969309#0(0"0(0#0#72"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/sel.png8632860128#527"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/sel.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/sel@2x.png Checkmateicon@2x/sel@2x.png
+s347969309.600504
+e347969309.615732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/sel@2x.png
+xCheckmateicon@2x/sel@2x.png
+lSLF07#2@32"Copy Checkmateicon@2x/sel@2x.png347969309#347969309#0(0"0(0#0#78"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/sel@2x.png8632534368#533"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/sel@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/uncheck.png checkmateicon/uncheck.png
+s347969309.141810
+e347969309.178215
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/uncheck.png
+xcheckmateicon/uncheck.png
+lSLF07#2@30"Copy checkmateicon/uncheck.png347969309#347969309#0(0"0(0#0#76"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/uncheck.png8647959040#531"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/uncheck.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/uncheck@2x.png Checkmateicon@2x/uncheck@2x.png
+s347969309.426992
+e347969309.471921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/uncheck@2x.png
+xCheckmateicon@2x/uncheck@2x.png
+lSLF07#2@36"Copy Checkmateicon@2x/uncheck@2x.png347969309#347969309#0(0"0(0#0#82"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/uncheck@2x.png8877668000#537"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/uncheck@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/us_state_list.xml us_state_list.xml
+s347969309.804077
+e347969309.815816
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/us_state_list.xml
+xus_state_list.xml
+lSLF07#2@22"Copy us_state_list.xml347969309#347969309#0(0"0(0#0#68"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /us_state_list.xml8875470080#523"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /us_state_list.xml" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/verify.png checkmateicon/verify.png
+s347969309.304604
+e347969309.404871
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/verify.png
+xcheckmateicon/verify.png
+lSLF07#2@29"Copy checkmateicon/verify.png347969309#347969309#0(0"0(0#0#75"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/verify.png8637503776#530"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/verify.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/verify@2x.png Checkmateicon@2x/verify@2x.png
+s347969309.558062
+e347969309.614660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/verify@2x.png
+xCheckmateicon@2x/verify@2x.png
+lSLF07#2@35"Copy Checkmateicon@2x/verify@2x.png347969309#347969309#0(0"0(0#0#81"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/verify@2x.png8636037792#536"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/verify@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/wordSearch.png checkmateicon/wordSearch.png
+s347969309.308230
+e347969309.405091
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/wordSearch.png
+xcheckmateicon/wordSearch.png
+lSLF07#2@33"Copy checkmateicon/wordSearch.png347969309#347969309#0(0"0(0#0#79"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/wordSearch.png8637269440#534"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /checkmateicon/wordSearch.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CCpResource build/Debug-iphonesimulator/Chec-MateView.app/wordSearch@2x.png Checkmateicon@2x/wordSearch@2x.png
+s347969309.564411
+e347969309.614875
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chec-MateView.app/wordSearch@2x.png
+xCheckmateicon@2x/wordSearch@2x.png
+lSLF07#2@39"Copy Checkmateicon@2x/wordSearch@2x.png347969309#347969309#0(0"0(0#0#85"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/wordSearch@2x.png8635690048#540"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Checkmateicon@2x/wordSearch@2x.png" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
+CGenerateDSYMFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app.dSYM" "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView"
+s347969301.430492
+e347969301.615865
+r1
+xGenerateDSYMFile
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app.dSYM
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Chec-MateView.app.dSYM build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView347969301#347969301#0(0"0(0#0#110"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView8877086880#443"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView" -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app.dSYM"0#
+
+CLd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView" normal i386
+s347969300.830492
+e347969301.430144
+r1
+xLd
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView
+xnormal
+xi386
+lSLF07#2@115"Link /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView347969300#347969301#0(0"0(0#0#0"8612805504#1014"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" "-F/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator" -filelist "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Chec-MateView.build/Debug-iphonesimulator/Chec-MateView.build/Objects-normal/i386/Chec-MateView.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Chec-MateView"0#
+
+CProcessInfoPlistFile "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Info.plist" Chec-MateView/Chec-MateView-Info.plist
+s347969298.090452
+e347969298.223870
+r1
+xProcessInfoPlistFile
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Info.plist
+xChec-MateView/Chec-MateView-Info.plist
+lSLF07#2@46"Process Chec-MateView/Chec-MateView-Info.plist347969298#347969298#0(0"0(0#0#89"/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /Chec-MateView/Chec-MateView-Info.plist8877080640#553"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Chec-MateView/Chec-MateView-Info.plist -genpkginfo "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app/Info.plist"0#
+
+CProcessPCH /var/folders/JM/JM4fS11DFtiSqQ1oXPXk8k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chec-MateView-Prefix-egimjewrqypltvathldgctpnwgzb/Chec-MateView-Prefix.pch.gch Chec-MateView/Chec-MateView-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CTouch "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"
+s347969310.446609
+e347969310.459237
+r1
+xTouch
+x/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app
+lSLF07#2@102"Touch /Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app347969310#347969310#0(0"0(0#0#0"8933677024#312"    cd "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 "    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/apple/Desktop/MILAN/Chec-MateView6-12-2011 /build/Debug-iphonesimulator/Chec-MateView.app"0#
+
